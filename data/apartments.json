@@ -1,0 +1,274 @@
+{
+  "updated_at": "2026-10-20",
+  "currency": "EUR",
+  "notes": "Координаты ориентировочные, так как часть агентств скрывает точный дом до назначения просмотра.",
+  "apartments": [
+    {
+      "id": "pere-segedinca-74885",
+      "title": "Pere Segedinca — Stara Bežanija",
+      "district": "Novi Beograd",
+      "neighborhood": "Stara Bežanija / Bežanijska kosa",
+      "address": "Pere Segedinca, Novi Beograd, Beograd",
+      "price": 165000,
+      "area": 50,
+      "rooms": 3,
+      "bedrooms": 2,
+      "floor": "4/4",
+      "registered": true,
+      "renovated": true,
+      "furnished": false,
+      "heating": "Klima",
+      "source": "City Expert",
+      "url": "https://cityexpert.rs/prodaja-nekretnina/beograd/74885/trosoban-stan-pere-segedinca-novi-beograd",
+      "images": [
+        "https://img.cityexpert.rs/properties/1920x/74000/74885/slike/cityexpert.rs_-_nekretnina_id_-_74885_-_0036_-_20251008.jpg"
+      ],
+      "location": {
+        "lat": 44.8179,
+        "lng": 20.3882,
+        "precision": "approximate"
+      },
+      "priority": 1,
+      "pros": [
+        "полный ремонт",
+        "2 спальни",
+        "uknjiženo",
+        "зелёный жилой район"
+      ],
+      "cons": [
+        "4/4",
+        "отопление кондиционером"
+      ],
+      "comment": "Один из лучших вариантов цена/качество: можно экономить относительно €190–200k без явной потери по состоянию."
+    },
+    {
+      "id": "vespucijeva-191488548",
+      "title": "Vespučijeva — Bežanijska kosa 3",
+      "district": "Novi Beograd",
+      "neighborhood": "Bežanijska kosa 3",
+      "address": "Vespučijeva, Bežanijska kosa 3, Novi Beograd, Beograd",
+      "price": 187000,
+      "area": 74,
+      "rooms": 2,
+      "bedrooms": 1,
+      "floor": "4/6",
+      "registered": true,
+      "renovated": false,
+      "furnished": false,
+      "heating": "Centralno",
+      "source": "KupujemProdajem",
+      "url": "https://www.kupujemprodajem.com/nekretnine-prodaja/stanovi/vespucijeva-bezanijska-kosa-3-novi-beograd-beograd/oglas/191488548",
+      "images": [],
+      "location": {
+        "lat": 44.838,
+        "lng": 20.3778,
+        "precision": "approximate"
+      },
+      "priority": 1,
+      "pros": [
+        "74 м²",
+        "лоджия 6 м²",
+        "лифт",
+        "uknjiženo",
+        "дом 2004",
+        "можно переделать в 3.0"
+      ],
+      "cons": [
+        "2% комиссия",
+        "пустая"
+      ],
+      "comment": "Лучший вариант по метражу и району. Очень хороший ориентир, чтобы понять, стоит ли доплачивать за Косy."
+    },
+    {
+      "id": "studentska-16330",
+      "title": "Studentska — Blok 3",
+      "district": "Novi Beograd",
+      "neighborhood": "Studentski grad / Blok 3",
+      "address": "Studentska, Blok 3, Novi Beograd, Beograd",
+      "price": 166000,
+      "area": 46,
+      "rooms": 2,
+      "bedrooms": 1,
+      "floor": "высокое приземље",
+      "registered": true,
+      "renovated": false,
+      "furnished": false,
+      "heating": "CG + klima",
+      "source": "City Expert",
+      "url": "https://cityexpert.rs/prodaja-nekretnina/beograd/16330/nekretnina",
+      "images": [
+        "https://img.cityexpert.rs/properties/1920x/16000/16330/slike/cityexpert.rs_-_nekretnina_id_-_16330_-_6265_-_20160718.jpg"
+      ],
+      "location": {
+        "lat": 44.8257,
+        "lng": 20.409,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "Студгород",
+        "46/46 uknjiženo",
+        "подвал",
+        "центральное отопление"
+      ],
+      "cons": [
+        "высокое приземље",
+        "пустая",
+        "старая столярка"
+      ],
+      "comment": "Прямое попадание в желаемый тип района. Стоит смотреть даже как ориентир по микролокации."
+    },
+    {
+      "id": "blok61-dusana-190764485",
+      "title": "Dušana Vukasovića — Blok 61",
+      "district": "Novi Beograd",
+      "neighborhood": "Blok 61",
+      "address": "Dušana Vukasovića, Blok 61, Novi Beograd, Beograd",
+      "price": 185000,
+      "area": 49,
+      "rooms": 2.5,
+      "bedrooms": 2,
+      "floor": "1/4",
+      "registered": true,
+      "renovated": true,
+      "furnished": true,
+      "heating": "Centralno",
+      "source": "KupujemProdajem",
+      "url": "https://www.kupujemprodajem.com/nekretnine-prodaja/stanovi/blok-61-novi-beograd-beograd/oglas/190764485",
+      "images": [
+        "https://images.kupujemprodajem.com/photos/oglasi/5/48/190764485/big-190764485_6abb87488f9f63-182127588jfcp5et67-1.webp"
+      ],
+      "location": {
+        "lat": 44.8024,
+        "lng": 20.3755,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "2 спальни",
+        "с мебелью и техникой",
+        "лоджия",
+        "uknjiženo",
+        "1 этаж"
+      ],
+      "cons": [
+        "без лифта",
+        "2% комиссия",
+        "дороже по €/м²"
+      ],
+      "comment": "Вариант «заехать и жить». Хорош для сравнения с более дешёвыми объектами, которым нужен ремонт."
+    },
+    {
+      "id": "blok63-196343165",
+      "title": "Blok 63 — большие террасы",
+      "district": "Novi Beograd",
+      "neighborhood": "Blok 63",
+      "address": "Jurija Gagarina, Blok 63, Novi Beograd, Beograd",
+      "price": 190000,
+      "area": 53,
+      "rooms": 3,
+      "bedrooms": 2,
+      "floor": "10/11",
+      "registered": true,
+      "renovated": true,
+      "furnished": false,
+      "heating": "Centralno",
+      "source": "KupujemProdajem",
+      "url": "https://www.kupujemprodajem.com/nekretnine-prodaja/stanovi/blok-63-novi-beograd-beograd/oglas/196343165",
+      "images": [
+        "https://images.kupujemprodajem.com/photos/oglasi/5/16/196343165/big-196343165_6ad10dd5ca4755-04557945p2sjg8x04y-what.webp"
+      ],
+      "location": {
+        "lat": 44.804,
+        "lng": 20.384,
+        "precision": "approximate"
+      },
+      "priority": 3,
+      "pros": [
+        "2 спальни",
+        "2 большие террасы",
+        "лифт",
+        "uknjiženo",
+        "светлая"
+      ],
+      "cons": [
+        "€190k",
+        "10 этаж"
+      ],
+      "comment": "Сильная планировка и террасы. Имеет смысл, если высокий этаж вам ок."
+    },
+    {
+      "id": "fontana-pariske-1137969",
+      "title": "Pariske komune — Fontana",
+      "district": "Novi Beograd",
+      "neighborhood": "Fontana / Blok 1",
+      "address": "Pariske komune, Fontana, Novi Beograd, Beograd",
+      "price": 154000,
+      "area": 39,
+      "rooms": 2,
+      "bedrooms": 1,
+      "floor": "8/8",
+      "registered": true,
+      "renovated": true,
+      "furnished": true,
+      "heating": "Centralno",
+      "source": "Nekretnine.rs",
+      "url": "https://www.nekretnine.rs/ru/oglasi/1137969/",
+      "images": [],
+      "location": {
+        "lat": 44.8282,
+        "lng": 20.4097,
+        "precision": "approximate"
+      },
+      "priority": 3,
+      "pros": [
+        "готова к заселению",
+        "Fontana",
+        "лифт",
+        "отдельная спальня",
+        "€154k"
+      ],
+      "cons": [
+        "маленькая",
+        "8/8",
+        "фактически 39 м², зарегистрировано 35 м²"
+      ],
+      "comment": "Недорогой вход в хорошую локацию. По качеству норм, но площадь уже компромисс."
+    },
+    {
+      "id": "blok34-halo-5425647829150",
+      "title": "Blok 34 / Studentski grad — Uprava carina",
+      "district": "Novi Beograd",
+      "neighborhood": "Blok 34 / Studentski grad",
+      "address": "Blok 34, Novi Beograd, Beograd",
+      "price": 175000,
+      "area": 58,
+      "rooms": 2.5,
+      "bedrooms": 2,
+      "floor": "6",
+      "registered": null,
+      "renovated": null,
+      "furnished": null,
+      "heating": "проверить",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/uprava-carina-odlicna-investicija-sa-potencij/5425647829150",
+      "images": [],
+      "location": {
+        "lat": 44.825,
+        "lng": 20.4,
+        "precision": "approximate"
+      },
+      "priority": 3,
+      "pros": [
+        "58 м²",
+        "у Студгорода",
+        "€175k"
+      ],
+      "cons": [
+        "детали надо перепроверить по телефону",
+        "документы не зафиксированы в базе"
+      ],
+      "comment": "Очень интересна именно локацией и метражом. Перед поездкой позвонить и уточнить состояние, лифт и uknjiženost."
+    }
+  ]
+}
