@@ -1,7 +1,7 @@
 {
   "updated_at": "2026-10-20",
   "currency": "EUR",
-  "notes": "Координаты ориентировочные, так как часть агентств скрывает точный дом до назначения просмотра.",
+  "notes": "Координаты ориентировочные, так как часть агентств скрывает точный дом до назначения просмотра. Для новостроек цена в JSON может быть приведена к приблизительной цене с PDV для честного сравнения — см. price_note.",
   "apartments": [
     {
       "id": "pere-segedinca-74885",
@@ -269,6 +269,302 @@
         "документы не зафиксированы в базе"
       ],
       "comment": "Очень интересна именно локацией и метражом. Перед поездкой позвонить и уточнить состояние, лифт и uknjiženost."
+    },
+    {
+      "id": "halo-blok61-jurija-5425647680594",
+      "title": "Jurija Gagarina — Blok 61",
+      "district": "Novi Beograd",
+      "neighborhood": "Blok 61",
+      "address": "Jurija Gagarina, Blok 61, Novi Beograd, Beograd",
+      "price": 175000,
+      "area": 53,
+      "rooms": 2,
+      "bedrooms": 1,
+      "floor": "1/19",
+      "registered": true,
+      "renovated": null,
+      "furnished": null,
+      "heating": "проверить",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/blok-61-dvosoban-uknjizen-moze-kredit-za-mlad/5425647680594?kid=4",
+      "images": [],
+      "location": {
+        "lat": 44.8038,
+        "lng": 20.378,
+        "precision": "approximate"
+      },
+      "priority": 1,
+      "last_checked": "2026-10-20",
+      "pros": [
+        "53 м²",
+        "uknjiženo",
+        "1 этаж",
+        "2 лифта",
+        "парковка",
+        "окна во двор"
+      ],
+      "cons": [
+        "состояние ремонта надо проверить по фото/на просмотре"
+      ],
+      "comment": "Очень ровный вариант в нужном нам типе района: нормальный метраж, первый этаж не приземље, документы заявлены чистыми."
+    },
+    {
+      "id": "backa-meandri-189067641",
+      "title": "Bačka — Meandri",
+      "district": "Zemun",
+      "neighborhood": "Meandri",
+      "address": "Bačka, Meandri, Zemun, Beograd",
+      "price": 180000,
+      "area": 68,
+      "rooms": 2,
+      "bedrooms": 1,
+      "floor": "4/6",
+      "registered": true,
+      "renovated": false,
+      "furnished": false,
+      "heating": "Centralno",
+      "source": "KupujemProdajem",
+      "url": "https://www.kupujemprodajem.com/nekretnine-prodaja/stanovi/backa-meandri-zemun-beograd/oglas/189067641",
+      "images": [
+        "https://images.kupujemprodajem.com/photos/oglasi/1/64/189067641/tmb-300x300-189067641_69e76e3c34ea24-06461207338001033_1_202.webp"
+      ],
+      "location": {
+        "lat": 44.851,
+        "lng": 20.3865,
+        "precision": "approximate"
+      },
+      "priority": 1,
+      "last_checked": "2026-10-20",
+      "pros": [
+        "68 м²",
+        "чистые документы",
+        "uknjižen 1/1",
+        "4/6",
+        "лифт",
+        "подвал",
+        "лоджия 10 м²",
+        "зелёный вид"
+      ],
+      "cons": [
+        "зарегистрировано 58 м² из 68",
+        "2% комиссия",
+        "интерьер не новый"
+      ],
+      "comment": "Сильное соотношение площади, этажа и цены для Земуна. Лоджию можно использовать для дополнительной комнаты, но зарегистрированную площадь отдельно перепроверить."
+    },
+    {
+      "id": "banijska-meandri-195162829",
+      "title": "Banijska — Meandri",
+      "district": "Zemun",
+      "neighborhood": "Meandri",
+      "address": "Banijska, Meandri, Zemun, Beograd",
+      "price": 156000,
+      "area": 52,
+      "rooms": 2,
+      "bedrooms": 1,
+      "floor": "4/20",
+      "registered": true,
+      "renovated": false,
+      "furnished": false,
+      "heating": "Centralno",
+      "source": "KupujemProdajem",
+      "url": "https://www.kupujemprodajem.com/nekretnine-prodaja/stanovi/banijska-meandri-zemun-beograd/oglas/195162829",
+      "images": [],
+      "location": {
+        "lat": 44.8495,
+        "lng": 20.3895,
+        "precision": "approximate"
+      },
+      "priority": 1,
+      "last_checked": "2026-10-20",
+      "pros": [
+        "€156k",
+        "52 м²",
+        "4 этаж",
+        "uknjiženo",
+        "лифт",
+        "лоджия",
+        "PVC",
+        "хорошая планировка"
+      ],
+      "cons": [
+        "исходное состояние",
+        "2% комиссия"
+      ],
+      "comment": "Один из самых интересных вариантов именно по принципу «сэкономить без покупки халупы»: нормальный дом и планировка, но ремонт стоит оценить вживую."
+    },
+    {
+      "id": "prvomajska-cityexpert-80500",
+      "title": "Prvomajska — Novi Grad, Zemun",
+      "district": "Zemun",
+      "neighborhood": "Novi Grad",
+      "address": "Prvomajska, Novi Grad, Zemun, Beograd",
+      "price": 197000,
+      "area": 89,
+      "rooms": 2.5,
+      "bedrooms": 2,
+      "floor": "приземље / 1",
+      "registered": true,
+      "renovated": true,
+      "furnished": true,
+      "heating": "Струя",
+      "source": "City Expert",
+      "url": "https://cityexpert.rs/prodaja-nekretnina/beograd/80500/dvoiposoban-stan-prvomajska-zemun",
+      "images": [
+        "https://img.cityexpert.rs/properties/1920x/80000/80500/slike/cityexpert.rs_-_nekretnina_id_-_80500-06956-20261017.avif"
+      ],
+      "location": {
+        "lat": 44.852,
+        "lng": 20.388,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "last_checked": "2026-10-20",
+      "pros": [
+        "89 м²",
+        "2 спальни",
+        "89/89 uknjiženo",
+        "полумеблирована",
+        "потолки 3.15 м",
+        "свободная парковка"
+      ],
+      "cons": [
+        "приземље",
+        "электроотопление",
+        "1.5% комиссия",
+        "почти потолок бюджета"
+      ],
+      "comment": "Очень много площади за €197k и полностью зарегистрированные 89 м². Главный вопрос — насколько вам понравится приземље и отопление электричеством."
+    },
+    {
+      "id": "sava-burica-cityexpert-80274",
+      "title": "Sava Burića — Naselje Sava Kovačević",
+      "district": "Zemun",
+      "neighborhood": "Sava Kovačević",
+      "address": "Sava Burića, Zemun, Beograd",
+      "price": 198400,
+      "area": 64,
+      "rooms": 3,
+      "bedrooms": 2,
+      "floor": "11/11",
+      "registered": true,
+      "renovated": true,
+      "furnished": true,
+      "heating": "Centralno",
+      "source": "City Expert",
+      "url": "https://cityexpert.rs/prodaja-nekretnina/beograd/80274/trosoban-stan-sava-burica-zemun",
+      "images": [
+        "https://img.cityexpert.rs/properties/1920x/80000/80274/slike/cityexpert.rs_-_nekretnina_id_-_80274-08021-20260929.avif"
+      ],
+      "location": {
+        "lat": 44.857,
+        "lng": 20.395,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "last_checked": "2026-10-20",
+      "pros": [
+        "2 спальни",
+        "ремонт 2026",
+        "PVC",
+        "лифт",
+        "терраса",
+        "подвал",
+        "парковка"
+      ],
+      "cons": [
+        "11/11",
+        "зарегистрировано 58 м² из 64",
+        "1.5% комиссия",
+        "почти €200k"
+      ],
+      "comment": "Свежий ремонт и две спальни — вариант без строительной эпопеи. Проверить крышу/последний этаж и расхождение площади."
+    },
+    {
+      "id": "vinogradska-nekretnine-1582791",
+      "title": "Vinogradska — у Blok 61",
+      "district": "Novi Beograd",
+      "neighborhood": "Bežanija / у Blok 61",
+      "address": "Vinogradska, Novi Beograd, Beograd",
+      "price": 174438,
+      "listed_price": 158580,
+      "price_note": "Объявление €158 580 без PDV; в сортировке указано примерно €174 438 с 10% PDV, до комиссии.",
+      "area": 53,
+      "rooms": 2,
+      "bedrooms": 1,
+      "floor": "2/5",
+      "registered": null,
+      "renovated": true,
+      "furnished": false,
+      "heating": "проверить",
+      "source": "Nekretnine.rs",
+      "url": "https://www.nekretnine.rs/oglasi/1582791/",
+      "images": [],
+      "location": {
+        "lat": 44.807,
+        "lng": 20.352,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "last_checked": "2026-10-20",
+      "pros": [
+        "новостройка",
+        "53 м²",
+        "2 этаж",
+        "лифт",
+        "оплата по этапам",
+        "кредит возможен"
+      ],
+      "cons": [
+        "сдача август 2027 + до 3 месяцев",
+        "цена в объявлении без PDV",
+        "2% комиссия",
+        "гараж отдельно"
+      ],
+      "comment": "Интересная новая двушка дешевле многих старых квартир. В карточке сайта считаем цену с 10% PDV для честного сравнения; возможный возврат PDV зависит от статуса покупателя."
+    },
+    {
+      "id": "blok45-jurija-192679087",
+      "title": "Jurija Gagarina — Blok 45",
+      "district": "Novi Beograd",
+      "neighborhood": "Blok 45",
+      "address": "Jurija Gagarina, Blok 45, Novi Beograd, Beograd",
+      "price": 199000,
+      "area": 70,
+      "rooms": 3,
+      "bedrooms": 2,
+      "floor": "приземље / 15",
+      "registered": true,
+      "renovated": false,
+      "furnished": false,
+      "heating": "Centralno",
+      "source": "KupujemProdajem",
+      "url": "https://www.kupujemprodajem.com/nekretnine-prodaja/stanovi/jurija-gagarina-blok-45-novi-beograd-beograd/oglas/192679087",
+      "images": [
+        "https://images.kupujemprodajem.com/photos/oglasi/7/08/192679087/tmb-300x300-192679087_6abbacaa373531-70356034148120641_5_202.webp"
+      ],
+      "location": {
+        "lat": 44.7968,
+        "lng": 20.3777,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "last_checked": "2026-10-20",
+      "pros": [
+        "70 м²",
+        "2 спальни",
+        "uknjiženo",
+        "ухоженная",
+        "можно заселяться",
+        "тихий внутренний двор",
+        "у Савского кея"
+      ],
+      "cons": [
+        "приземље",
+        "€199k",
+        "агентство"
+      ],
+      "comment": "Хороший семейный вариант в Blok 45: не дешёвый, зато 70 м² и две спальни без заявленной необходимости большого ремонта."
     }
   ]
 }
