@@ -565,6 +565,358 @@
         "агентство"
       ],
       "comment": "Хороший семейный вариант в Blok 45: не дешёвый, зато 70 м² и две спальни без заявленной необходимости большого ремонта."
+    },
+    {
+      "id": "zemun-polje-halo-5425647780328",
+      "title": "Marka Milanovića — Zemun Polje",
+      "district": "Zemun",
+      "neighborhood": "Zemun Polje",
+      "address": "Marka Milanovića, Zemun Polje, Beograd",
+      "price": 79500,
+      "area": 32,
+      "rooms": 1,
+      "bedrooms": 0,
+      "floor": "VPR/1",
+      "registered": true,
+      "renovated": false,
+      "furnished": null,
+      "heating": "проверить",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/zemun-polje-jednosoban-uknjizen-retko-u-ponud/5425647780328?kid=1",
+      "images": [],
+      "location": {
+        "lat": 44.8768,
+        "lng": 20.3277,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "last_checked": "2026-10-20",
+      "pros": [
+        "€79.5k",
+        "uknjiženo",
+        "PVC",
+        "подвал",
+        "можно переделать в 1.5",
+        "кредит возможен"
+      ],
+      "cons": [
+        "Zemun Polje — дальше от центра",
+        "высокое приземље",
+        "исходное состояние",
+        "2% комиссия"
+      ],
+      "comment": "Очень дешёвый вход в зарегистрированную квартиру. Не тот же уровень локации, что Studentski grad, зато цена почти вдвое ниже."
+    },
+    {
+      "id": "ledine-andreja-5425647149261",
+      "title": "Andreja Trajkovskog 3 — Ledine",
+      "district": "Novi Beograd",
+      "neighborhood": "Ledine",
+      "address": "Andreja Trajkovskog 3, Ledine, Beograd",
+      "price": 67500,
+      "area": 24,
+      "rooms": 1,
+      "bedrooms": 0,
+      "floor": "PR/3",
+      "registered": null,
+      "renovated": true,
+      "furnished": null,
+      "heating": "проверить",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/ledine-novogradnja/5425647149261?kid=4",
+      "images": [],
+      "location": {
+        "lat": 44.7929,
+        "lng": 20.3488,
+        "precision": "approximate"
+      },
+      "priority": 4,
+      "last_checked": "2026-10-20",
+      "pros": [
+        "€67.5k",
+        "новостройка",
+        "самый низкий порог входа"
+      ],
+      "cons": [
+        "24 м²",
+        "приземље",
+        "Ledine",
+        "документы и финальный статус проверить отдельно"
+      ],
+      "comment": "Добавил как нижнюю границу рынка. Цена интересная, но это маленькая студия на Ledine — покупать только после тщательной проверки документов и дома."
+    },
+    {
+      "id": "ledine-belfortska-halo-2506",
+      "title": "Belfortska — Ledine, atelje",
+      "district": "Novi Beograd",
+      "neighborhood": "Ledine / Belfortska",
+      "address": "Belfortska, Ledine, Beograd",
+      "price": 92150,
+      "area": 45.24,
+      "rooms": 1,
+      "bedrooms": 0,
+      "floor": "PR/3",
+      "registered": null,
+      "renovated": true,
+      "furnished": false,
+      "heating": "проверить",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/ledine-belfortska-novogradnja-45-24m2-id2506/5425647456252?kid=1",
+      "images": [],
+      "location": {
+        "lat": 44.7959,
+        "lng": 20.3509,
+        "precision": "approximate"
+      },
+      "priority": 3,
+      "last_checked": "2026-10-20",
+      "pros": [
+        "45 м² за €92k",
+        "новостройка",
+        "Belfortska",
+        "гараж доступен отдельно"
+      ],
+      "cons": [
+        "в объявлении обозначен как atelje",
+        "стройка",
+        "ипотека сейчас недоступна",
+        "приземље"
+      ],
+      "comment": "Очень дёшево за метраж, но слово atelje принципиально важно: перед покупкой проверить юридический статус помещения и возможность регистрации проживания."
+    },
+    {
+      "id": "ledine-mar-halo-25587",
+      "title": "Начало Ledine — у Hotel Mar",
+      "district": "Novi Beograd",
+      "neighborhood": "Ledine / начало района",
+      "address": "Surčinska, Ledine, Beograd",
+      "price": 99000,
+      "area": 47,
+      "rooms": 1.5,
+      "bedrooms": 1,
+      "floor": "3/3",
+      "registered": null,
+      "renovated": true,
+      "furnished": false,
+      "heating": "проверить",
+      "source": "Halo Oglasi",
+      "url": "https://smsprint.halooglasi.com/nekretnine/prodaja-stanova/novogradnja-kod-hotela-mar-47m2-id25587/5425647499534?kid=1",
+      "images": [],
+      "location": {
+        "lat": 44.7988,
+        "lng": 20.367,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "last_checked": "2026-10-20",
+      "pros": [
+        "47 м² за €99k",
+        "отдельная спальня",
+        "новостройка",
+        "начало Ledine ближе к NBG"
+      ],
+      "cons": [
+        "3/3",
+        "документы/срок сдачи перепроверить перед просмотром"
+      ],
+      "comment": "Уже гораздо интереснее маленькой студии: полноценная отдельная спальня и большой метраж за меньше €100k."
+    },
+    {
+      "id": "belfortska-kp-188921354",
+      "title": "Belfortska — Ledine, 2.0",
+      "district": "Novi Beograd",
+      "neighborhood": "Ledine / Belfortska",
+      "address": "Belfortska, Ledine, Beograd",
+      "price": 124686,
+      "area": 46.18,
+      "rooms": 2,
+      "bedrooms": 1,
+      "floor": "2/2",
+      "registered": null,
+      "renovated": true,
+      "furnished": false,
+      "heating": "Centralno",
+      "source": "KupujemProdajem",
+      "url": "https://www.kupujemprodajem.com/nekretnine-prodaja/stanovi/belfortska-ledine-novi-beograd-beograd/oglas/188921354",
+      "images": [],
+      "location": {
+        "lat": 44.7963,
+        "lng": 20.3515,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "last_checked": "2026-10-20",
+      "pros": [
+        "полноценная 2.0",
+        "46 м²",
+        "новостройка",
+        "лифт",
+        "терраса",
+        "парковка"
+      ],
+      "cons": [
+        "2/2",
+        "Ledine",
+        "проверить статус регистрации и финальную цену с расходами"
+      ],
+      "comment": "Нормальный компромисс: всё ещё существенно дешевле хороших старых квартир в блоках, но уже не микростудия."
+    },
+    {
+      "id": "paviljoni-kp-195844910",
+      "title": "Džona Kenedija — Paviljoni",
+      "district": "Novi Beograd",
+      "neighborhood": "Paviljoni",
+      "address": "Džona Kenedija, Paviljoni, Novi Beograd, Beograd",
+      "price": 131000,
+      "area": 29,
+      "rooms": 1,
+      "bedrooms": 0,
+      "floor": "5/7",
+      "registered": true,
+      "renovated": true,
+      "furnished": false,
+      "heating": "TA peć",
+      "source": "KupujemProdajem",
+      "url": "https://www.kupujemprodajem.com/nekretnine-prodaja/stanovi/dzona-kenedija-paviljoni-novi-beograd-beograd/oglas/195844910",
+      "images": [],
+      "location": {
+        "lat": 44.8371,
+        "lng": 20.4116,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "last_checked": "2026-10-20",
+      "pros": [
+        "Paviljoni",
+        "uknjiženo",
+        "ремонт",
+        "терраса",
+        "подвал",
+        "можно переделать в 1.5"
+      ],
+      "cons": [
+        "29 м²",
+        "5 этаж без лифта",
+        "2% комиссия"
+      ],
+      "comment": "Уже настоящий Новый Белград, а не окраина. Платим за локацию: квартира маленькая, зато район гораздо ближе к исходному запросу."
+    },
+    {
+      "id": "blok62-halo-5425647820366",
+      "title": "Jurija Gagarina — Blok 62",
+      "district": "Novi Beograd",
+      "neighborhood": "Blok 62",
+      "address": "Jurija Gagarina, Blok 62, Novi Beograd, Beograd",
+      "price": 140900,
+      "area": 41,
+      "rooms": 1,
+      "bedrooms": 0,
+      "floor": "17/19",
+      "registered": true,
+      "renovated": null,
+      "furnished": null,
+      "heating": "Centralno",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/blok-62-uknjizen-1-0-stan/5425647820366?kid=4",
+      "images": [],
+      "location": {
+        "lat": 44.8042,
+        "lng": 20.382,
+        "precision": "approximate"
+      },
+      "priority": 1,
+      "last_checked": "2026-10-20",
+      "pros": [
+        "Blok 62",
+        "41 м²",
+        "uknjiženo",
+        "вид в парк",
+        "легко адаптируется в 1.5"
+      ],
+      "cons": [
+        "17 этаж",
+        "состояние ремонта надо смотреть"
+      ],
+      "comment": "Один из лучших дешёвых вариантов именно по локации: уже полноценный Blok 62 и 41 м² при цене около €141k."
+    },
+    {
+      "id": "blok4-nekretnine-1579751",
+      "title": "Bulevar Zorana Đinđića — Blok 4",
+      "district": "Novi Beograd",
+      "neighborhood": "Blok 4 / Studentski grad",
+      "address": "Bulevar Zorana Đinđića, Blok 4, Novi Beograd, Beograd",
+      "price": 141000,
+      "area": 35,
+      "rooms": 1,
+      "bedrooms": 0,
+      "floor": "4/8",
+      "registered": true,
+      "renovated": null,
+      "furnished": null,
+      "heating": "Centralno",
+      "source": "Nekretnine.rs",
+      "url": "https://www.nekretnine.rs/oglasi/1579751/",
+      "images": [],
+      "location": {
+        "lat": 44.8251,
+        "lng": 20.405,
+        "precision": "approximate"
+      },
+      "priority": 1,
+      "last_checked": "2026-10-20",
+      "pros": [
+        "у Студгорода",
+        "uknjiženo 35/35",
+        "4 этаж",
+        "2 лифта",
+        "можно адаптировать в 1.5"
+      ],
+      "cons": [
+        "35 м²",
+        "2% комиссия",
+        "€4k+/м²"
+      ],
+      "comment": "По атмосфере и расположению — почти ровно то, что искали. Маленькая, но хороший ориентир для дешёвого входа в Studentski grad."
+    },
+    {
+      "id": "gornji-grad-nekretnine-1519499",
+      "title": "Gornji Grad — Zemun, 1.5",
+      "district": "Zemun",
+      "neighborhood": "Gornji Grad",
+      "address": "Gornji Grad, Zemun, Beograd",
+      "price": 127000,
+      "area": 44,
+      "rooms": 1.5,
+      "bedrooms": 1,
+      "floor": "PR/1",
+      "registered": true,
+      "renovated": true,
+      "furnished": false,
+      "heating": "электрическое",
+      "source": "Nekretnine.rs",
+      "url": "https://www.nekretnine.rs/oglasi/1519499/",
+      "images": [],
+      "location": {
+        "lat": 44.8529,
+        "lng": 20.3992,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "last_checked": "2026-10-20",
+      "pros": [
+        "44 м²",
+        "отдельная спальня",
+        "uknjiženo",
+        "ремонт",
+        "тихий двор",
+        "€127k"
+      ],
+      "cons": [
+        "приземље",
+        "электрическое отопление",
+        "2% комиссия"
+      ],
+      "comment": "Хорошая дешёвая альтернатива Новому Белграду: заметно больше площади за те же деньги, при этом не квартира под полный ремонт."
     }
   ]
 }
