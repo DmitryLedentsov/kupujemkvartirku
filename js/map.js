@@ -37,11 +37,19 @@
 
   function init() {
     map = L.map("map", { zoomControl: true }).setView([44.817, 20.392], 13);
-    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
       maxZoom: 19,
       attribution: '&copy; OpenStreetMap contributors'
     }).addTo(map);
     layer.addTo(map);
+
+    // Leaflet calculates its viewport once at initialization. On mobile,
+    // responsive layout/font rendering can slightly change the container size
+    // after that, so force a recalculation once the page has settled.
+    window.setTimeout(function () { map.invalidateSize(); }, 100);
+    window.addEventListener("resize", function () {
+      window.setTimeout(function () { map.invalidateSize(); }, 80);
+    });
   }
 
   function render(apartments) {
@@ -64,11 +72,13 @@
       bounds.push([apartment.location.lat, apartment.location.lng]);
     });
 
+    map.invalidateSize();
     if (bounds.length > 1) {
       map.fitBounds(bounds, { padding: [35, 35], maxZoom: 14 });
     } else if (bounds.length === 1) {
       map.setView(bounds[0], 14);
     }
+    window.setTimeout(function () { map.invalidateSize(); }, 120);
   }
 
   function focus(id) {
