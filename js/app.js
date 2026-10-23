@@ -60,14 +60,16 @@
   }
 
   function renderStats() {
-    var total = allApartments.length;
-    var median = allApartments.slice().sort(function (a,b) { return a.price - b.price; });
+    var active = allApartments.filter(function (a) { return (a.status || "active") === "active"; });
+    var total = active.length;
+    var archived = allApartments.length - active.length;
+    var median = active.slice().sort(function (a,b) { return a.price - b.price; });
     var medianPrice = total ? median[Math.floor(total / 2)].price : 0;
-    var avgSqm = total ? Math.round(allApartments.reduce(function (sum, a) { return sum + ppsqm(a); }, 0) / total) : 0;
+    var avgSqm = total ? Math.round(active.reduce(function (sum, a) { return sum + ppsqm(a); }, 0) / total) : 0;
     $("#heroStats").html(
-      '<div class="stat"><strong>' + total + '</strong><span>объектов</span></div>' +
+      '<div class="stat"><strong>' + total + '</strong><span>в продаже</span></div>' +
       '<div class="stat"><strong>' + (medianPrice ? euro(medianPrice) : "—") + '</strong><span>медиана</span></div>' +
-      '<div class="stat"><strong>' + (avgSqm ? euro(avgSqm) : "—") + '</strong><span>средний €/м²</span></div>'
+      '<div class="stat"><strong>' + archived + '</strong><span>в архиве</span></div>'
     );
   }
 
@@ -87,10 +89,13 @@
     var minRooms = Number($("#roomsFilter").val()) || 0;
     var source = $("#sourceFilter").val();
     var sort = $("#sortFilter").val();
+    var showInactive = $("#showInactive").is(":checked");
 
     filtered = allApartments.filter(function (a) {
       var haystack = [a.title, a.address, a.district, a.neighborhood, a.comment].join(" ").toLowerCase();
-      return (!q || haystack.indexOf(q) !== -1) &&
+      var isActive = (a.status || "active") === "active";
+      return (showInactive || isActive) &&
+        (!q || haystack.indexOf(q) !== -1) &&
         (!district || a.district === district) &&
         a.price <= maxPrice &&
         a.area >= minArea &&
@@ -110,8 +115,15 @@
     renderAll();
   }
 
+  function statusLabel(a) {
+    if (a.status === "sold") return "продано";
+    if (a.status === "removed") return "объявление удалено";
+    return "в продаже";
+  }
+
   function badges(a) {
     var html = "";
+    if (a.status === "sold" || a.status === "removed") html += '<span class="badge badge--dead">' + statusLabel(a) + '</span>';
     if (a.registered === true) html += '<span class="badge badge--good">uknjiženo</span>';
     if (a.bedrooms) html += '<span class="badge">' + a.bedrooms + ' спальн.</span>';
     if (a.renovated) html += '<span class="badge badge--good">ремонт</span>';
@@ -129,7 +141,7 @@
   function renderShortlist() {
     var html = "";
     filtered.slice(0, 8).forEach(function (a) {
-      html += '<article class="short-card" data-id="' + a.id + '">' +
+      html += '<article class="short-card ' + ((a.status && a.status !== "active") ? "is-inactive" : "") + '" data-id="' + a.id + '">' +
         imageOrPlaceholder(a, "short-card") +
         '<div><h3>' + escapeHtml(a.title) + '</h3>' +
         '<div class="short-card__price">' + euro(a.price) + '</div>' +
@@ -146,7 +158,7 @@
     var html = "";
     filtered.forEach(function (a) {
       var state = getState(a.id);
-      html += '<tr data-id="' + a.id + '">' +
+      html += '<tr class="' + ((a.status && a.status !== "active") ? "is-inactive" : "") + '" data-id="' + a.id + '">' +
         '<td><button class="icon-button favorite-btn ' + (state.favorite ? "active" : "") + '" data-id="' + a.id + '" title="В фавориты">★</button></td>' +
         '<td class="row-object"><strong>' + escapeHtml(a.title) + '</strong><small>' + escapeHtml(a.neighborhood || a.district) + '</small></td>' +
         '<td class="price">' + euro(a.price) + '</td>' +
@@ -167,7 +179,7 @@
     filtered.forEach(function (a) {
       var state = getState(a.id);
       var image = firstImage(a);
-      html += '<article class="apartment-card" data-id="' + a.id + '">' +
+      html += '<article class="apartment-card ' + ((a.status && a.status !== "active") ? "is-inactive" : "") + '" data-id="' + a.id + '">' +
         (image ? '<img class="apartment-card__image gallery-open" data-id="' + a.id + '" src="' + escapeHtml(image) + '" alt="' + escapeHtml(a.title) + '" loading="lazy">' : '') +
         '<div class="apartment-card__body">' +
           '<div class="apartment-card__top"><h3>' + escapeHtml(a.title) + '</h3>' +
@@ -207,7 +219,7 @@
   }
 
   function bindEvents() {
-    $("#searchFilter, #districtFilter, #priceFilter, #areaFilter, #roomsFilter, #sourceFilter, #sortFilter")
+    $("#searchFilter, #districtFilter, #priceFilter, #areaFilter, #roomsFilter, #sourceFilter, #sortFilter, #showInactive")
       .on("input change", applyFilters);
 
     $(".chip").on("click", function () {
@@ -220,6 +232,7 @@
     $("#resetFilters").on("click", function () {
       $("#searchFilter").val("");
       $("#districtFilter, #priceFilter, #areaFilter, #roomsFilter, #sourceFilter").val("");
+      $("#showInactive").prop("checked", false);
       $("#sortFilter").val("priority");
       quickMode = "all";
       $(".chip").removeClass("chip--active");
