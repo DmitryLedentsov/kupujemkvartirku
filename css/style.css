@@ -119,6 +119,20 @@ input, select {
 }
 input:focus, select:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(51,92,69,.08); }
 .quick-filters { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; align-items: center; }
+.archive-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 38px;
+  padding: 7px 11px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  color: var(--muted);
+  background: #fff;
+  font-size: 12px;
+  font-weight: 700;
+}
+.archive-toggle input { width: 16px; min-height: 16px; margin: 0; accent-color: var(--danger); }
 .chip, .link-button {
   border: 0;
   border-radius: 999px;
@@ -237,6 +251,16 @@ input:focus, select:focus { border-color: var(--accent); box-shadow: 0 0 0 3px r
 }
 .badge--good { color: var(--accent); background: var(--accent-2); }
 .badge--warn { color: #7f4a28; background: #f7e7d9; }
+.badge--dead { color: #fff; background: var(--danger); }
+.is-inactive {
+  border-color: rgba(157,70,61,.42) !important;
+  background: #fff4f2 !important;
+}
+tr.is-inactive td { background: #fff4f2; }
+.is-inactive .price,
+.is-inactive .short-card__price,
+.is-inactive .apartment-card__price { color: var(--danger); }
+.is-inactive img { filter: grayscale(.55); opacity: .72; }
 
 .counter {
   padding: 5px 9px;
@@ -409,3 +433,4 @@ footer {
   .hero__stats { grid-template-columns: 1fr 1fr; }
   .hero__stats .stat:last-child { grid-column: 1 / -1; }
 }
+.price-marker.inactive { background: var(--danger); opacity: .88; }
