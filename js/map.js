@@ -9,10 +9,11 @@
   }
 
   function markerIcon(apartment) {
-    var best = apartment.priority <= 2 ? " best" : "";
+    var dead = apartment.status && apartment.status !== "active" ? " inactive" : "";
+    var best = apartment.priority <= 2 && !dead ? " best" : "";
     return L.divIcon({
       className: "",
-      html: '<div class="price-marker' + best + '">' + moneyShort(apartment.price) + '</div>',
+      html: '<div class="price-marker' + best + dead + '">' + moneyShort(apartment.price) + '</div>',
       iconSize: [62, 30],
       iconAnchor: [31, 15]
     });
