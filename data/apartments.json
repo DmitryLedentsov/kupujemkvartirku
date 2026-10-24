@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20",
+  "updated_at": "2026-10-24",
   "currency": "EUR",
   "notes": "Координаты ориентировочные, так как часть агентств скрывает точный дом до назначения просмотра. Для новостроек цена в JSON может быть приведена к приблизительной цене с PDV для честного сравнения — см. price_note.",
   "apartments": [
@@ -997,7 +997,7 @@
       "district": "Novi Beograd",
       "neighborhood": "Ledine / Belfortska",
       "address": "Belfortska, Ledine, Beograd",
-      "price": 124686,
+      "price": 137155,
       "area": 46.18,
       "rooms": 2,
       "bedrooms": 1,
@@ -1027,7 +1027,8 @@
       "cons": [
         "2/2",
         "Ledine",
-        "проверить статус регистрации и финальную цену с расходами"
+        "проверить статус регистрации и финальную цену с расходами",
+        "€124 686 указано без 10% PDV; ориентир с PDV €137 155"
       ],
       "comment": "Нормальный компромисс: всё ещё существенно дешевле хороших старых квартир в блоках, но уже не микростудия.",
       "status": "active",
@@ -1037,6 +1038,11 @@
         {
           "date": "2026-10-20",
           "price": 124686
+        },
+        {
+          "date": "2026-10-24",
+          "price": 137155,
+          "reason": "vat_normalization_not_market_change"
         }
       ],
       "status_history": [
@@ -1044,7 +1050,9 @@
           "date": "2026-10-20",
           "status": "active"
         }
-      ]
+      ],
+      "listed_price": 124686,
+      "price_note": "В объявлении KupujemProdajem указано €124 686 БЕЗ PDV; продавец прямо указывает +10% PDV. Примерно €137 155 с PDV, до иных расходов. Это исправление учёта налога, а не повышение цены продавцом."
     },
     {
       "id": "paviljoni-kp-195844910",
@@ -1259,6 +1267,221 @@
       "status_history": [
         {
           "date": "2026-10-20",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-solunska-5425646212832",
+      "title": "Solunska — Novi Grad, Zemun",
+      "district": "Zemun",
+      "neighborhood": "Novi Grad / Solunska",
+      "address": "Solunska, Zemun, Beograd",
+      "price": 159000,
+      "area": 59,
+      "rooms": 2.5,
+      "bedrooms": 2,
+      "floor": "2/2",
+      "registered": null,
+      "renovated": true,
+      "furnished": null,
+      "heating": "TA peć",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/zemun-solunska-59m2-ii-ta/5425646212832?kid=1",
+      "images": [],
+      "location": {
+        "lat": 44.854,
+        "lng": 20.385,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "59 м²",
+        "полностью отремонтирована по объявлению",
+        "двусторонняя и светлая",
+        "2.5 комнаты",
+        "фактическая и договорная площадь 59 м²"
+      ],
+      "cons": [
+        "2/2 — последний этаж",
+        "отопление TA (накопительные электрообогреватели)",
+        "uknjiženost проверить",
+        "точный адрес и документы уточнить"
+      ],
+      "comment": "Хороший вариант по метражу за €159k. В каталоге Halo Oglasi 24.10.2026 указаны 59 м², 2.5, II/2, цена €159k и полностью выполненный ремонт. Прямая карточка доступна по ссылке, но текст каталога надёжнее извлекается из страницы района.",
+      "status": "active",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "price_history": [
+        {
+          "date": "2026-10-24",
+          "price": 159000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-10-24",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-makedonska-5425647727882",
+      "title": "Makedonska — Novi Grad, Zemun",
+      "district": "Zemun",
+      "neighborhood": "Novi Grad / Makedonska",
+      "address": "Makedonska, Zemun, Beograd",
+      "price": 165000,
+      "area": 64,
+      "rooms": 2,
+      "bedrooms": 1,
+      "floor": "4/5",
+      "registered": null,
+      "renovated": null,
+      "furnished": null,
+      "heating": "проверить",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/novi-grad-64m2-id16452/5425647727882?kid=4",
+      "images": [],
+      "location": {
+        "lat": 44.856,
+        "lng": 20.385,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "64 м²",
+        "4/5 этаж",
+        "функциональная планировка",
+        "светлая квартира",
+        "€2 578/м²"
+      ],
+      "cons": [
+        "состояние ремонта и лифт уточнить",
+        "документы уточнить",
+        "комиссия агентства неизвестна"
+      ],
+      "comment": "В каталоге Halo Oglasi 24.10.2026: €165k, 64 м², 2.0, IV/5, Makedonska. Хороший метраж за бюджет до €170k; состояние и регистрацию нужно проверить.",
+      "status": "active",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "price_history": [
+        {
+          "date": "2026-10-24",
+          "price": 165000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-10-24",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-makedonska-5425647282773",
+      "title": "Makedonska — однокомнатная, Zemun",
+      "district": "Zemun",
+      "neighborhood": "Novi Grad / Makedonska",
+      "address": "Makedonska, Zemun, Beograd",
+      "price": 115000,
+      "area": 45,
+      "rooms": 1,
+      "bedrooms": 0,
+      "floor": "4/4",
+      "registered": null,
+      "renovated": false,
+      "furnished": null,
+      "heating": "проверить",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/odlican-jednosoban-stan-na-lepoj-lokaciji-id1/5425647282773?kid=1",
+      "images": [],
+      "location": {
+        "lat": 44.856,
+        "lng": 20.386,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "€115k",
+        "45 м²",
+        "можно перепланировать в 1.5",
+        "жилой район с транспортом и школами",
+        "сохранённое исходное состояние по объявлению"
+      ],
+      "cons": [
+        "4/4 — последний этаж",
+        "не новый ремонт",
+        "наличие лифта не указано",
+        "документы проверить"
+      ],
+      "comment": "В каталоге Halo Oglasi 24.10.2026: €115k, 45 м², 1.0, IV/4, Makedonska. Экономный вариант с потенциалом перепланировки, но оценить крышу и ремонт.",
+      "status": "active",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "price_history": [
+        {
+          "date": "2026-10-24",
+          "price": 115000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-10-24",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-krajiska-5425647513327",
+      "title": "Krajiška — квартира с двориком, Zemun",
+      "district": "Zemun",
+      "neighborhood": "Novi Grad / Krajiška",
+      "address": "Krajiška, Zemun, Beograd",
+      "price": 180000,
+      "area": 65,
+      "rooms": 2.5,
+      "bedrooms": 2,
+      "floor": "PR/1",
+      "registered": true,
+      "renovated": true,
+      "furnished": null,
+      "heating": "проверить",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/svetao-i-funkcionalan-stan-sa-dvoristemzemun/5425647513327?kid=1",
+      "images": [],
+      "location": {
+        "lat": 44.857,
+        "lng": 20.378,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "65 м²",
+        "2.5 комнаты",
+        "свой дворик по описанию",
+        "uknjiženo по описанию",
+        "недавний ремонт по объявлению",
+        "тихая улица"
+      ],
+      "cons": [
+        "приземље",
+        "проверить юридический статус и права на двор",
+        "уточнить коммунальные расходы"
+      ],
+      "comment": "Каталог Halo Oglasi 24.10.2026: €180k, 65 м², 2.5, PR/1, Krajiška; объявление описывает зарегистрированную и недавно отремонтированную квартиру с двориком.",
+      "status": "active",
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24",
+      "price_history": [
+        {
+          "date": "2026-10-24",
+          "price": 180000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-10-24",
           "status": "active"
         }
       ]
