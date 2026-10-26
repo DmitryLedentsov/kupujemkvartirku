@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25",
+  "updated_at": "2026-10-26",
   "currency": "EUR",
   "notes": "Координаты ориентировочные, так как часть агентств скрывает точный дом до назначения просмотра. Для новостроек цена в JSON может быть приведена к приблизительной цене с PDV для честного сравнения — см. price_note.",
   "apartments": [
@@ -1674,10 +1674,10 @@
       ],
       "comment": "Новостройка на Ledine, по объявлению плановое заселение март 2027. Парковочное место отдельно €4k. Качественные характеристики — слова продавца, не независимая экспертиза.",
       "images": [],
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-25",
       "last_seen": "2026-10-25",
-      "last_checked": "2026-10-25",
+      "last_checked": "2026-10-26",
       "price_history": [
         {
           "date": "2026-10-25",
@@ -1687,6 +1687,356 @@
       "status_history": [
         {
           "date": "2026-10-25",
+          "status": "active"
+        },
+        {
+          "date": "2026-10-26",
+          "status": "removed",
+          "reason": "listing_unavailable",
+          "evidence": "404 on /hr/oglasi/1407719/ and /oglasi/1407719/; listing not found in site search"
+        }
+      ]
+    },
+    {
+      "id": "nekretnine-franje-krca-1427309",
+      "title": "Franje Krča — Zemun Polje, с гаражом",
+      "district": "Zemun",
+      "neighborhood": "Zemun Polje",
+      "address": "Franje Krča, Zemun Polje, Beograd",
+      "price": 130000,
+      "area": 54,
+      "rooms": 2,
+      "bedrooms": 1,
+      "floor": "VPR/2",
+      "registered": true,
+      "renovated": false,
+      "furnished": false,
+      "heating": "TA peć",
+      "source": "Nekretnine.rs",
+      "url": "https://www.nekretnine.rs/es/oglasi/1427309/",
+      "images": [],
+      "location": {
+        "lat": 44.8765,
+        "lng": 20.3275,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "54 м²",
+        "зарегистрирована, без обременений по объявлению",
+        "гараж около 10 м² включён в цену",
+        "подвал 12 м²",
+        "двусторонняя, светлая",
+        "обновлены окна",
+        "рядом автобус и BG voz"
+      ],
+      "cons": [
+        "Zemun Polje — дальше от Нового Белграда",
+        "исходное состояние, потребуется ремонт",
+        "нет лифта",
+        "2% комиссия",
+        "51 м² + 3 м² террасы — сверить площадь в кадастре"
+      ],
+      "comment": "Сильный вариант по соотношению цены и метража с гаражом. Объявление обновлялось 24.09.2026, карточка доступна при проверке 26.10.2026. Юридический статус гаража и точную зарегистрированную площадь уточнить.",
+      "status": "active",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "last_checked": "2026-10-26",
+      "price_history": [
+        {
+          "date": "2026-10-26",
+          "price": 130000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-10-26",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "cityexpert-kralja-radoslava-80483",
+      "title": "Kralja Radoslava — Batajnica, 2.5",
+      "district": "Zemun",
+      "neighborhood": "Batajnica",
+      "address": "Kralja Radoslava, Batajnica, Zemun, Beograd",
+      "price": 95000,
+      "area": 50,
+      "rooms": 2.5,
+      "bedrooms": 2,
+      "floor": "низкое приземље/4",
+      "registered": true,
+      "renovated": null,
+      "furnished": true,
+      "heating": "электрическое",
+      "source": "City Expert",
+      "url": "https://cityexpert.rs/prodaja-nekretnina/beograd/80483/dvoiposoban-stan-kralja-radoslava-zemun",
+      "images": [
+        "https://img.cityexpert.rs/properties/1920x/80000/80483/slike/cityexpert.rs_-_nekretnina_id_-_80483-08307-20261012.avif"
+      ],
+      "location": {
+        "lat": 44.9078,
+        "lng": 20.278,
+        "precision": "approximate"
+      },
+      "priority": 4,
+      "pros": [
+        "€95k за 50 м²",
+        "две спальни",
+        "дом 2014 года",
+        "зарегистрировано 45 м²",
+        "парковочное место включено",
+        "PVC"
+      ],
+      "cons": [
+        "Batajnica — значительно дальше предпочитаемых районов",
+        "низкое приземље",
+        "электроотопление",
+        "зарегистрировано 45 из 50 м²",
+        "комиссия 1.5% с PDV"
+      ],
+      "comment": "Дешёвый семейный вариант как альтернативная дальняя локация, не равнозначен Bežanijska kosa или Studentski grad. Проверить сырость/инсоляцию низкого первого этажа, документы на парковку и разницу площадей.",
+      "status": "active",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "last_checked": "2026-10-26",
+      "price_history": [
+        {
+          "date": "2026-10-26",
+          "price": 95000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-10-26",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "cityexpert-stara-79825",
+      "title": "Stara — Gardoš, Zemun, 1.0",
+      "district": "Zemun",
+      "neighborhood": "Gardoš",
+      "address": "Stara, Gardoš, Zemun, Beograd",
+      "price": 95000,
+      "area": 30,
+      "rooms": 1,
+      "bedrooms": 1,
+      "floor": "приземље/1",
+      "registered": true,
+      "renovated": null,
+      "furnished": true,
+      "heating": "электрическое",
+      "source": "City Expert",
+      "url": "https://cityexpert.rs/prodaja-nekretnina/beograd/79825/jednosoban-stan-stara-zemun",
+      "images": [
+        "https://img.cityexpert.rs/properties/1920x/79000/79825/slike/cityexpert.rs_-_nekretnina_id_-_79825-04555-20260824.avif"
+      ],
+      "location": {
+        "lat": 44.8484,
+        "lng": 20.4073,
+        "precision": "approximate"
+      },
+      "priority": 3,
+      "pros": [
+        "€95k",
+        "Gardoš / старый Земун",
+        "зарегистрировано 30/30 м²",
+        "меблирована",
+        "общий двор"
+      ],
+      "cons": [
+        "30 м²",
+        "приземље",
+        "электроотопление",
+        "центр Земуна менее приоритетен",
+        "комиссия 1.5% с PDV"
+      ],
+      "comment": "Бюджетная однокомнатная для сравнения цен на жильё в старом Земуне. По фото отделка простая; обратить внимание на влажность и состояние старого здания.",
+      "status": "active",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "last_checked": "2026-10-26",
+      "price_history": [
+        {
+          "date": "2026-10-26",
+          "price": 95000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-10-26",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "cityexpert-sremskih-boraca-79082",
+      "title": "Sremskih boraca — Gornji grad, Zemun",
+      "district": "Zemun",
+      "neighborhood": "Gornji grad",
+      "address": "Sremskih boraca, Gornji grad, Zemun, Beograd",
+      "price": 185000,
+      "area": 90,
+      "rooms": 4,
+      "bedrooms": 3,
+      "floor": "4/4",
+      "registered": true,
+      "renovated": true,
+      "furnished": true,
+      "heating": "норвежские радиаторы",
+      "source": "City Expert",
+      "url": "https://cityexpert.rs/prodaja-nekretnina/beograd/79082/cetvorosoban-stan-sremskih-boraca-zemun",
+      "images": [],
+      "location": {
+        "lat": 44.8556,
+        "lng": 20.4003,
+        "precision": "approximate"
+      },
+      "priority": 3,
+      "pros": [
+        "90 м²",
+        "3 спальни",
+        "ремонт 2025",
+        "подвал, чердак и терраса",
+        "PVC",
+        "парковка у дома"
+      ],
+      "cons": [
+        "зарегистрировано 70 из 90 м²",
+        "последний этаж 4/4",
+        "электрическое отопление",
+        "1.5% комиссия с PDV",
+        "проверить кровлю и перепланировки"
+      ],
+      "comment": "Очень много площади за €185k, но 20 м² расхождения с кадастром. Рассматривать только после проверки технической документации, законности площади и состояния крыши.",
+      "status": "active",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "last_checked": "2026-10-26",
+      "price_history": [
+        {
+          "date": "2026-10-26",
+          "price": 185000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-10-26",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "cityexpert-bulevar-mihajla-pupina-80618",
+      "title": "Bulevar Mihajla Pupina — Blok 2",
+      "district": "Novi Beograd",
+      "neighborhood": "Blok 2",
+      "address": "Bulevar Mihajla Pupina, Blok 2, Novi Beograd, Beograd",
+      "price": 174900,
+      "area": 42,
+      "rooms": 2,
+      "bedrooms": 1,
+      "floor": "11/13",
+      "registered": true,
+      "renovated": null,
+      "furnished": true,
+      "heating": "Centralno",
+      "source": "City Expert",
+      "url": "https://cityexpert.rs/prodaja-nekretnina/beograd/80618/dvosoban-stan-bulevar-mihajla-pupina-novi-beograd",
+      "images": [],
+      "location": {
+        "lat": 44.8258,
+        "lng": 20.4195,
+        "precision": "approximate"
+      },
+      "priority": 3,
+      "pros": [
+        "Blok 2",
+        "отдельная спальня",
+        "меблирована",
+        "центральное отопление",
+        "лифт",
+        "зарегистрирована"
+      ],
+      "cons": [
+        "€4 164/м²",
+        "11 этаж",
+        "зарегистрировано 40 из 42 м²",
+        "коммунальные расходы около €100/мес по объявлению",
+        "фотографии пока в обработке"
+      ],
+      "comment": "Скорее ориентир цен на хороший район, чем самый выгодный вариант. City Expert показывает €174 900, 42 м², 11/13; доступность подтверждена карточкой и каталогом 26.10.2026.",
+      "status": "active",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "last_checked": "2026-10-26",
+      "price_history": [
+        {
+          "date": "2026-10-26",
+          "price": 174900
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-10-26",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-blok60-zemunska-5425647761788",
+      "title": "Zemunska — Blok 60, 1.0",
+      "district": "Novi Beograd",
+      "neighborhood": "Blok 60",
+      "address": "Zemunska, Blok 60, Novi Beograd, Beograd",
+      "price": 130000,
+      "area": 35,
+      "rooms": 1,
+      "bedrooms": 0,
+      "floor": "3/4",
+      "registered": null,
+      "renovated": true,
+      "furnished": null,
+      "heating": "проверить",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/renoviran-stan-30m-5m2---zemunska-preko-puta/5425647761788",
+      "images": [],
+      "location": {
+        "lat": 44.8071,
+        "lng": 20.3689,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "Blok 60",
+        "€130k",
+        "отремонтирована",
+        "30 м² + терраса 5 м²",
+        "3 этаж"
+      ],
+      "cons": [
+        "маленькая квартира",
+        "внутренняя площадь 30 м²",
+        "укњиженост и наличие лифта не подтверждены",
+        "2% комиссия и состояние документов уточнить"
+      ],
+      "comment": "Данные из каталога Halo Oglasi (цена €130k, 35 м² с террасой, 3/4); индивидуальная страница доступна, но её описание динамически не отображается в автоматической проверке. Требует подтверждения у продавца.",
+      "status": "active",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "last_checked": "2026-10-26",
+      "price_history": [
+        {
+          "date": "2026-10-26",
+          "price": 130000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-10-26",
           "status": "active"
         }
       ]
