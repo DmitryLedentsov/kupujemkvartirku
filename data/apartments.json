@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28",
+  "updated_at": "2026-10-29",
   "currency": "EUR",
   "notes": "Координаты ориентировочные, так как часть агентств скрывает точный дом до назначения просмотра. Для новостроек цена в JSON может быть приведена к приблизительной цене с PDV для честного сравнения — см. price_note.",
   "apartments": [
@@ -42,7 +42,7 @@
       "comment": "Один из лучших вариантов цена/качество: можно экономить относительно €190–200k без явной потери по состоянию.",
       "status": "active",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "price_history": [
         {
           "date": "2026-10-20",
@@ -55,7 +55,7 @@
           "status": "active"
         }
       ],
-      "last_checked": "2026-10-27"
+      "last_checked": "2026-10-29"
     },
     {
       "id": "vespucijeva-191488548",
@@ -157,7 +157,7 @@
       "comment": "Прямое попадание в желаемый тип района. Стоит смотреть даже как ориентир по микролокации.",
       "status": "active",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "price_history": [
         {
           "date": "2026-10-20",
@@ -170,7 +170,7 @@
           "status": "active"
         }
       ],
-      "last_checked": "2026-10-27"
+      "last_checked": "2026-10-29"
     },
     {
       "id": "blok61-dusana-190764485",
@@ -213,7 +213,7 @@
       "comment": "Вариант «заехать и жить». Хорош для сравнения с более дешёвыми объектами, которым нужен ремонт.",
       "status": "active",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "price_history": [
         {
           "date": "2026-10-20",
@@ -226,7 +226,7 @@
           "status": "active"
         }
       ],
-      "last_checked": "2026-10-27"
+      "last_checked": "2026-10-29"
     },
     {
       "id": "blok63-196343165",
@@ -328,7 +328,7 @@
       "comment": "Недорогой вход в хорошую локацию. По качеству норм, но площадь уже компромисс.",
       "status": "active",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "price_history": [
         {
           "date": "2026-10-20",
@@ -341,7 +341,7 @@
           "status": "active"
         }
       ],
-      "last_checked": "2026-10-27"
+      "last_checked": "2026-10-29"
     },
     {
       "id": "blok34-halo-5425647829150",
@@ -472,7 +472,7 @@
         "precision": "approximate"
       },
       "priority": 1,
-      "last_checked": "2026-10-27",
+      "last_checked": "2026-10-29",
       "pros": [
         "68 м²",
         "чистые документы",
@@ -491,7 +491,7 @@
       "comment": "Сильное соотношение площади, этажа и цены для Земуна. Лоджию можно использовать для дополнительной комнаты, но зарегистрированную площадь отдельно перепроверить.",
       "status": "active",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "price_history": [
         {
           "date": "2026-10-20",
@@ -593,7 +593,7 @@
         "precision": "approximate"
       },
       "priority": 2,
-      "last_checked": "2026-10-27",
+      "last_checked": "2026-10-29",
       "pros": [
         "89 м²",
         "2 спальни",
@@ -611,7 +611,7 @@
       "comment": "Очень много площади за €197k и полностью зарегистрированные 89 м². Главный вопрос — насколько вам понравится приземље и отопление электричеством.",
       "status": "active",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "price_history": [
         {
           "date": "2026-10-20",
@@ -651,7 +651,7 @@
         "precision": "approximate"
       },
       "priority": 2,
-      "last_checked": "2026-10-27",
+      "last_checked": "2026-10-29",
       "pros": [
         "2 спальни",
         "ремонт 2026",
@@ -670,7 +670,7 @@
       "comment": "Свежий ремонт и две спальни — вариант без строительной эпопеи. Проверить крышу/последний этаж и расхождение площади.",
       "status": "active",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "price_history": [
         {
           "date": "2026-10-20",
@@ -774,7 +774,7 @@
         "precision": "approximate"
       },
       "priority": 2,
-      "last_checked": "2026-10-27",
+      "last_checked": "2026-10-29",
       "pros": [
         "70 м²",
         "2 спальни",
@@ -792,7 +792,7 @@
       "comment": "Хороший семейный вариант в Blok 45: не дешёвый, зато 70 м² и две спальни без заявленной необходимости большого ремонта.",
       "status": "active",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "price_history": [
         {
           "date": "2026-10-20",
@@ -1045,7 +1045,7 @@
         "precision": "approximate"
       },
       "priority": 2,
-      "last_checked": "2026-10-27",
+      "last_checked": "2026-10-29",
       "pros": [
         "полноценная 2.0",
         "46 м²",
@@ -1063,7 +1063,7 @@
       "comment": "Новостройка на Ledine, сдача июль 2027. Важное уточнение 25.10: PDV 10% НЕ применяется — прежнее повышение цены в трекере было ошибкой, не изменением цены продавца.",
       "status": "active",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "price_history": [
         {
           "date": "2026-10-20",
@@ -1174,7 +1174,7 @@
         "precision": "approximate"
       },
       "priority": 1,
-      "last_checked": "2026-10-20",
+      "last_checked": "2026-10-29",
       "pros": [
         "Blok 62",
         "41 м²",
@@ -1189,7 +1189,7 @@
       "comment": "Один из лучших дешёвых вариантов именно по локации: уже полноценный Blok 62 и 41 м² при цене около €141k.",
       "status": "active",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "price_history": [
         {
           "date": "2026-10-20",
@@ -1231,7 +1231,7 @@
         "precision": "approximate"
       },
       "priority": 1,
-      "last_checked": "2026-10-27",
+      "last_checked": "2026-10-29",
       "pros": [
         "у Студгорода",
         "uknjiženo 35/35",
@@ -1247,7 +1247,7 @@
       "comment": "По атмосфере и расположению — почти ровно то, что искали. Маленькая, но хороший ориентир для дешёвого входа в Studentski grad.",
       "status": "active",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "price_history": [
         {
           "date": "2026-10-20",
@@ -1290,7 +1290,7 @@
         "precision": "approximate"
       },
       "priority": 2,
-      "last_checked": "2026-10-27",
+      "last_checked": "2026-10-29",
       "pros": [
         "44 м²",
         "отдельная спальня",
@@ -1307,7 +1307,7 @@
       "comment": "Хорошая дешёвая альтернатива Новому Белграду: заметно больше площади за те же деньги, при этом не квартира под полный ремонт.",
       "status": "active",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "price_history": [
         {
           "date": "2026-10-20",
@@ -1629,8 +1629,8 @@
       "images": [],
       "status": "active",
       "first_seen": "2026-10-25",
-      "last_seen": "2026-10-25",
-      "last_checked": "2026-10-25",
+      "last_seen": "2026-10-29",
+      "last_checked": "2026-10-29",
       "price_history": [
         {
           "date": "2026-10-25",
@@ -1748,8 +1748,8 @@
       "comment": "Сильный вариант по соотношению цены и метража с гаражом. Объявление обновлялось 24.09.2026, карточка доступна при проверке 26.10.2026. Юридический статус гаража и точную зарегистрированную площадь уточнить.",
       "status": "active",
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-28",
-      "last_checked": "2026-10-27",
+      "last_seen": "2026-10-29",
+      "last_checked": "2026-10-29",
       "price_history": [
         {
           "date": "2026-10-26",
@@ -1807,8 +1807,8 @@
       "comment": "Дешёвый семейный вариант как альтернативная дальняя локация, не равнозначен Bežanijska kosa или Studentski grad. Проверить сырость/инсоляцию низкого первого этажа, документы на парковку и разницу площадей.",
       "status": "active",
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-28",
-      "last_checked": "2026-10-27",
+      "last_seen": "2026-10-29",
+      "last_checked": "2026-10-29",
       "price_history": [
         {
           "date": "2026-10-26",
@@ -1865,8 +1865,8 @@
       "comment": "Бюджетная однокомнатная для сравнения цен на жильё в старом Земуне. По фото отделка простая; обратить внимание на влажность и состояние старого здания.",
       "status": "active",
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-28",
-      "last_checked": "2026-10-27",
+      "last_seen": "2026-10-29",
+      "last_checked": "2026-10-29",
       "price_history": [
         {
           "date": "2026-10-26",
@@ -1922,8 +1922,8 @@
       "comment": "Очень много площади за €185k, но 20 м² расхождения с кадастром. Рассматривать только после проверки технической документации, законности площади и состояния крыши.",
       "status": "active",
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-28",
-      "last_checked": "2026-10-27",
+      "last_seen": "2026-10-29",
+      "last_checked": "2026-10-29",
       "price_history": [
         {
           "date": "2026-10-26",
@@ -1979,8 +1979,8 @@
       "comment": "Скорее ориентир цен на хороший район, чем самый выгодный вариант. City Expert показывает €174 900, 42 м², 11/13; доступность подтверждена карточкой и каталогом 26.10.2026.",
       "status": "active",
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-28",
-      "last_checked": "2026-10-27",
+      "last_seen": "2026-10-29",
+      "last_checked": "2026-10-29",
       "price_history": [
         {
           "date": "2026-10-26",
@@ -2091,8 +2091,8 @@
       "comment": "Низкая цена за метраж; объявление обещает заселение примерно через месяц, но перед просмотром проверить готовность, ввод в эксплуатацию, uknjiženost, состав площади и включён ли PDV.",
       "status": "active",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-28",
-      "last_checked": "2026-10-27",
+      "last_seen": "2026-10-29",
+      "last_checked": "2026-10-29",
       "price_history": [
         {
           "date": "2026-10-27",
@@ -2150,8 +2150,8 @@
       "comment": "В разных агентствах может дублироваться как 1.5/2.0: сопоставлены одинаковые площадь, этаж, цена и адрес, добавлена одна карточка. Перед просмотром проверить статус регистрации, крышу и окончательную цену.",
       "status": "active",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-28",
-      "last_checked": "2026-10-27",
+      "last_seen": "2026-10-29",
+      "last_checked": "2026-10-29",
       "price_history": [
         {
           "date": "2026-10-27",
@@ -2208,8 +2208,8 @@
       "comment": "Просторная семейная квартира в удалённом районе. Другая квартира на той же улице за €95k уже есть в базе, это отдельный объект с иной площадью и ID. Источник подтверждает статус в продаже.",
       "status": "active",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-28",
-      "last_checked": "2026-10-27",
+      "last_seen": "2026-10-29",
+      "last_checked": "2026-10-29",
       "price_history": [
         {
           "date": "2026-10-27",
@@ -2366,7 +2366,7 @@
       "comment": "Объявление 27.10.2026: современный дом рядом с Prvomajska; уточнить входит ли парковка в указанную цену.",
       "status": "active",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "price_history": [
         {
           "date": "2026-10-28",
@@ -2378,7 +2378,8 @@
           "date": "2026-10-28",
           "status": "active"
         }
-      ]
+      ],
+      "last_checked": "2026-10-29"
     },
     {
       "id": "halo-ugrinovacka-5425647888022",
@@ -2682,7 +2683,7 @@
       "comment": "Карточка актуально открывается 28.10, обновлена ранее 25.05.2026; данные по документам уточнить.",
       "status": "active",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "price_history": [
         {
           "date": "2026-10-28",
@@ -2694,7 +2695,8 @@
           "date": "2026-10-28",
           "status": "active"
         }
-      ]
+      ],
+      "last_checked": "2026-10-29"
     },
     {
       "id": "nekretnine-golubinacka-7689",
@@ -2738,7 +2740,7 @@
       "comment": "В объявлении 25.05.2026 заявлено uknjiženo; проверить реальную систему отопления.",
       "status": "active",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-10-29",
       "price_history": [
         {
           "date": "2026-10-28",
@@ -2748,6 +2750,450 @@
       "status_history": [
         {
           "date": "2026-10-28",
+          "status": "active"
+        }
+      ],
+      "last_checked": "2026-10-29"
+    },
+    {
+      "id": "kp-altina-pavla-vuisica-196271577",
+      "title": "Pavla Vuisića — Altina, 2.0 от собственника",
+      "district": "Zemun",
+      "neighborhood": "Altina",
+      "address": "Pavla Vuisića, Altina, Zemun, Beograd",
+      "price": 80000,
+      "area": 35,
+      "rooms": 2,
+      "bedrooms": 1,
+      "floor": "3/3",
+      "registered": true,
+      "renovated": false,
+      "furnished": false,
+      "heating": "Etažno",
+      "source": "KupujemProdajem",
+      "url": "https://www.kupujemprodajem.com/nekretnine-prodaja/stanovi/pavla-vuisica-altina-zemun-beograd/oglas/196271577",
+      "images": [],
+      "location": {
+        "lat": 44.864,
+        "lng": 20.337,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "€80k",
+        "uknjiženo",
+        "продажа от собственника",
+        "терраса",
+        "подвал",
+        "парковка"
+      ],
+      "cons": [
+        "3/3 — последний этаж",
+        "исходное состояние",
+        "Altina дальше от Нового Белграда"
+      ],
+      "comment": "Недорогая зарегистрированная квартира с отдельной спальней. Продавец упоминает возможность торга, но базовая цена €80k. Проверить крышу, документы и стоимость ремонта.",
+      "status": "active",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "last_checked": "2026-10-29",
+      "price_history": [
+        {
+          "date": "2026-10-29",
+          "price": 80000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-10-29",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "kp-altina-dobanovacki-192746686",
+      "title": "Dobanovački put — Altina, 2.0",
+      "district": "Zemun",
+      "neighborhood": "Altina",
+      "address": "Dobanovački put, Altina, Zemun, Beograd",
+      "price": 100000,
+      "area": 46,
+      "rooms": 2,
+      "bedrooms": 1,
+      "floor": "2/3",
+      "registered": null,
+      "renovated": null,
+      "furnished": null,
+      "heating": "проверить",
+      "source": "KupujemProdajem",
+      "url": "https://www.kupujemprodajem.com/nekretnine-prodaja/stanovi/dobanovacki-put-altina-zemun-beograd/oglas/192746686",
+      "images": [],
+      "location": {
+        "lat": 44.864,
+        "lng": 20.328,
+        "precision": "approximate"
+      },
+      "priority": 3,
+      "pros": [
+        "46 м² за €100k",
+        "2 этаж",
+        "терраса",
+        "парковка",
+        "кондиционер"
+      ],
+      "cons": [
+        "uknjiženost не указана",
+        "состояние ремонта не описано",
+        "2% комиссия",
+        "Altina"
+      ],
+      "comment": "Бюджетная двушка. В объявлении мало конкретики о документах и состоянии; перед просмотром запросить выписку и фото.",
+      "status": "active",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "last_checked": "2026-10-29",
+      "price_history": [
+        {
+          "date": "2026-10-29",
+          "price": 100000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-10-29",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "nekretnine-altina-1052587",
+      "title": "Ugrinovački put 21. deo — Altina",
+      "district": "Zemun",
+      "neighborhood": "Altina / Galenika",
+      "address": "Ugrinovački put 21. deo, Altina, Zemun, Beograd",
+      "price": 130000,
+      "area": 50,
+      "rooms": 2,
+      "bedrooms": 1,
+      "floor": "PR/3",
+      "registered": true,
+      "renovated": true,
+      "furnished": true,
+      "heating": "Norveški radijatori",
+      "source": "Nekretnine.rs",
+      "url": "https://www.nekretnine.rs/pt/oglasi/1052587/",
+      "images": [],
+      "location": {
+        "lat": 44.866,
+        "lng": 20.329,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "50/50 м² uknjiženo",
+        "дом 2020 года",
+        "мебель и техника",
+        "терраса",
+        "парковка",
+        "городская канализация"
+      ],
+      "cons": [
+        "приземље",
+        "электрическое отопление",
+        "2% комиссия",
+        "Altina"
+      ],
+      "comment": "Полностью оборудованная зарегистрированная квартира в относительно новом доме. По документам выглядит надёжнее многих дешёвых новостроек Altina.",
+      "status": "active",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "last_checked": "2026-10-29",
+      "price_history": [
+        {
+          "date": "2026-10-29",
+          "price": 130000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-10-29",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "cityexpert-djordja-stanojevica-79323",
+      "title": "Đorđa Stanojevića — Blok 64",
+      "district": "Novi Beograd",
+      "neighborhood": "Blok 64",
+      "address": "Đorđa Stanojevića, Blok 64, Novi Beograd, Beograd",
+      "price": 176500,
+      "listed_price": 163500,
+      "price_note": "В объявлении €163 500, но мебель, кухня и техника обязательно продаются вместе с квартирой ещё за €13 000; итог €176 500 без комиссии 1,5% и налога на передачу 2,5%. Гараж отдельно.",
+      "area": 32,
+      "rooms": 1,
+      "bedrooms": 0,
+      "floor": "2/11",
+      "registered": null,
+      "renovated": true,
+      "furnished": true,
+      "heating": "Toplotna pumpa",
+      "source": "City Expert",
+      "url": "https://cityexpert.rs/prodaja-nekretnina/beograd/79323/jednosoban-stan-dorda-stanojevica-novi-beograd",
+      "images": [],
+      "location": {
+        "lat": 44.806,
+        "lng": 20.401,
+        "precision": "approximate"
+      },
+      "priority": 3,
+      "pros": [
+        "Blok 64",
+        "новый дом 2026",
+        "готова к заселению",
+        "полностью оборудована",
+        "тепловой насос",
+        "4 лифта",
+        "2 этаж"
+      ],
+      "cons": [
+        "32 м²",
+        "обязательная доплата €13k за мебель",
+        "гараж отдельно",
+        "строительное разрешение вместо подтверждённого uknjiženo",
+        "комиссия 1,5% и налог 2,5%"
+      ],
+      "comment": "Важно: фактический обязательный чек €176 500, а не рекламные €163 500. Дорого за метраж, но хорошая локация и готовый интерьер.",
+      "status": "active",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "last_checked": "2026-10-29",
+      "price_history": [
+        {
+          "date": "2026-10-29",
+          "price": 176500
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-10-29",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-gornji-grad-5425647690589",
+      "title": "Gornji grad — у Zemunske kapije",
+      "district": "Zemun",
+      "neighborhood": "Gornji grad / Zemunske kapije",
+      "address": "Gornji grad, Zemun, Beograd",
+      "price": 128866,
+      "area": 41,
+      "rooms": 1.5,
+      "bedrooms": 1,
+      "floor": "проверить",
+      "registered": null,
+      "renovated": null,
+      "furnished": null,
+      "heating": "проверить",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/stan-41m2-zemun---gornji-grad/5425647690589",
+      "images": [],
+      "location": {
+        "lat": 44.854,
+        "lng": 20.386,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "41 м²",
+        "отдельная спальня",
+        "рядом с Zemunske kapije",
+        "€128.9k"
+      ],
+      "cons": [
+        "этаж и документы не подтверждены",
+        "нет надёжной информации о ремонте",
+        "детали индивидуальной карточки скрыты динамической загрузкой"
+      ],
+      "comment": "Небольшая 1.5 рядом с Zemunske kapije. Цена подтверждена в каталоге Halo Oglasi; этаж, документы и фото надо уточнить у агентства.",
+      "status": "active",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "last_checked": "2026-10-29",
+      "price_history": [
+        {
+          "date": "2026-10-29",
+          "price": 128866
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-10-29",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-prvomajska-5425647884083",
+      "title": "Prvomajska — Sava Kovačević, 1.5",
+      "district": "Zemun",
+      "neighborhood": "Sava Kovačević",
+      "address": "Prvomajska, Zemun, Beograd",
+      "price": 143500,
+      "area": 41,
+      "rooms": 1.5,
+      "bedrooms": 1,
+      "floor": "10/22",
+      "registered": true,
+      "renovated": true,
+      "furnished": null,
+      "heating": "проверить",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/prvomajska-jednoiposoban-bez-ulaganja-id1386/5425647884083",
+      "images": [],
+      "location": {
+        "lat": 44.852,
+        "lng": 20.396,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "uknjiženo 41 м²",
+        "адаптирована в 1.5",
+        "по описанию без вложений",
+        "3 лифта",
+        "Prvomajska"
+      ],
+      "cons": [
+        "10 этаж",
+        "полезная площадь 37 м² при зарегистрированных 41",
+        "высотный дом",
+        "комиссия и отопление требуют уточнения"
+      ],
+      "comment": "Удачный бюджетный вариант в более удобной части Земуна. В объявлении отдельно указано 41 м² строительной и 37 м² полезной площади.",
+      "status": "active",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "last_checked": "2026-10-29",
+      "price_history": [
+        {
+          "date": "2026-10-29",
+          "price": 143500
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-10-29",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-meandri-5425647308179",
+      "title": "Meandri — зелёный район, лоджия",
+      "district": "Zemun",
+      "neighborhood": "Meandri",
+      "address": "Meandri, Zemun, Beograd",
+      "price": 176500,
+      "area": 65,
+      "rooms": 2,
+      "bedrooms": 1,
+      "floor": "4/7",
+      "registered": null,
+      "renovated": null,
+      "furnished": null,
+      "heating": "проверить",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/meandri---zemun/5425647308179",
+      "images": [],
+      "location": {
+        "lat": 44.85,
+        "lng": 20.391,
+        "precision": "approximate"
+      },
+      "priority": 1,
+      "pros": [
+        "65 м² за €176.5k",
+        "зелёный район",
+        "лоджия 7 м²",
+        "4 этаж",
+        "хорошая цена за площадь"
+      ],
+      "cons": [
+        "из 65 м² лоджия 7 м²",
+        "uknjiženost не подтверждена",
+        "ремонт и лифт требуют уточнения"
+      ],
+      "comment": "Один из наиболее интересных по метражу в Meandri. Каталог Halo Oglasi от 26.10 показывает €176 500; индивидуальная карточка динамическая.",
+      "status": "active",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "last_checked": "2026-10-29",
+      "price_history": [
+        {
+          "date": "2026-10-29",
+          "price": 176500
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-10-29",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-banjicka-5425647730759",
+      "title": "Banjička — Meandri, две спальни",
+      "district": "Zemun",
+      "neighborhood": "Meandri",
+      "address": "Banjička, Meandri, Zemun, Beograd",
+      "price": 178000,
+      "area": 69,
+      "rooms": 3,
+      "bedrooms": 2,
+      "floor": "1/3",
+      "registered": null,
+      "renovated": true,
+      "furnished": null,
+      "heating": "проверить",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/zemun-meandri-69m2-dve-spavace-bez-ulaganja/5425647730759",
+      "images": [],
+      "location": {
+        "lat": 44.848,
+        "lng": 20.393,
+        "precision": "approximate"
+      },
+      "priority": 1,
+      "pros": [
+        "69 м² за €178k",
+        "две отдельные спальни",
+        "1 этаж",
+        "по описанию без вложений",
+        "рядом школы и детсады",
+        "тихая улица"
+      ],
+      "cons": [
+        "uknjiženost не подтверждена",
+        "ремонт нужно проверить по фото",
+        "детали индивидуальной карточки недоступны"
+      ],
+      "comment": "Сильный семейный вариант по площади и цене. Цена €178 000 зафиксирована в свежем каталоге Halo Oglasi от 26.10; у агентства проверить документы и точный метраж.",
+      "status": "active",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "last_checked": "2026-10-29",
+      "price_history": [
+        {
+          "date": "2026-10-29",
+          "price": 178000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-10-29",
           "status": "active"
         }
       ]
