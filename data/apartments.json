@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30",
+  "updated_at": "2026-10-31",
   "currency": "EUR",
   "notes": "Координаты ориентировочные, так как часть агентств скрывает точный дом до назначения просмотра. Для новостроек цена в JSON может быть приведена к приблизительной цене с PDV для честного сравнения — см. price_note.",
   "apartments": [
@@ -3476,6 +3476,408 @@
       "status_history": [
         {
           "date": "2026-10-30",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "nekretnine-burgerovih-1441895",
+      "title": "Bergerovih — Zemun Polje, 2.0",
+      "district": "Zemun",
+      "neighborhood": "Zemun Polje",
+      "address": "Bergerovih, Zemun Polje, Beograd",
+      "price": 119000,
+      "area": 52,
+      "rooms": 2,
+      "bedrooms": 1,
+      "floor": "1/1",
+      "registered": true,
+      "renovated": true,
+      "furnished": true,
+      "heating": "Электрические радиаторы",
+      "source": "Nekretnine.rs",
+      "url": "https://www.nekretnine.rs/es/oglasi/1441895/",
+      "images": [
+        "https://pic.nekretnine.rs/image/18124235/m-c.jpg"
+      ],
+      "location": {
+        "lat": 44.8708,
+        "lng": 20.3284,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "52 м² за €119k",
+        "uknjiženo",
+        "4 квартиры в доме",
+        "двор",
+        "терраса",
+        "подвал",
+        "встроенная мебель",
+        "объявление обновлено 30.10"
+      ],
+      "cons": [
+        "Zemun Polje дальше от центра",
+        "1/1 — последний этаж",
+        "без лифта",
+        "электроотопление",
+        "2% комиссия"
+      ],
+      "comment": "По карточке от 30.10.2026: €119k, 52 м², ухоженный небольшой дом, зарегистрирована. Дата сделки и документы проверяются у продавца.",
+      "status": "active",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "last_checked": "2026-10-31",
+      "price_history": [
+        {
+          "date": "2026-10-31",
+          "price": 119000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-10-31",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "nekretnine-plavi-horizonti-1500941",
+      "title": "Mihajla Bandura — Plavi Horizonti, 1.5",
+      "district": "Zemun",
+      "neighborhood": "Plavi Horizonti",
+      "address": "Mihajla Bandura, Plavi Horizonti, Zemun, Beograd",
+      "price": 99000,
+      "area": 36,
+      "rooms": 1.5,
+      "bedrooms": 1,
+      "floor": "1/3",
+      "registered": null,
+      "renovated": true,
+      "furnished": true,
+      "heating": "Инверторный кондиционер / электричество",
+      "source": "Nekretnine.rs",
+      "url": "https://www.nekretnine.rs/oglasi/1500941/",
+      "images": [
+        "https://pic.nekretnine.rs/image/18740369/m-c.jpg"
+      ],
+      "location": {
+        "lat": 44.8654,
+        "lng": 20.344,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "€99k",
+        "отдельная спальня",
+        "мебель включена",
+        "терраса",
+        "парковочное место во дворе",
+        "1 этаж",
+        "ухоженная новостройка"
+      ],
+      "cons": [
+        "окраинная локация",
+        "без лифта",
+        "электроотопление",
+        "uknjiženost не подтверждена",
+        "2% комиссия"
+      ],
+      "comment": "Объявление также присутствует в свежем каталоге Halo Oglasi от 28.10.2026. У Nekretnine.rs есть фото и подробное описание.",
+      "status": "active",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "last_checked": "2026-10-31",
+      "price_history": [
+        {
+          "date": "2026-10-31",
+          "price": 99000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-10-31",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "nekretnine-bezanijska-kosa-1411153",
+      "title": "Partizanske avijacije — Bežanijska kosa 1",
+      "district": "Novi Beograd",
+      "neighborhood": "Bežanijska kosa 1",
+      "address": "Partizanske avijacije, Bežanijska kosa 1, Novi Beograd, Beograd",
+      "price": 149000,
+      "area": 31,
+      "rooms": 1,
+      "bedrooms": 0,
+      "floor": "3/4",
+      "registered": null,
+      "renovated": true,
+      "furnished": false,
+      "heating": "Centralno",
+      "source": "Nekretnine.rs",
+      "url": "https://www.nekretnine.rs/oglasi/1411153/",
+      "images": [
+        "https://pic.nekretnine.rs/image/17742889/m-c.jpg"
+      ],
+      "location": {
+        "lat": 44.8209,
+        "lng": 20.3654,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "хорошая локация",
+        "полный ремонт",
+        "потолки 3,5–4 м",
+        "лифт",
+        "центральное отопление",
+        "новая кухня"
+      ],
+      "cons": [
+        "31 м²",
+        "€4.8k/м²",
+        "2% комиссия",
+        "uknjiženost отдельно проверить"
+      ],
+      "comment": "Появляется в каталоге Halo 30.10.2026 и Nekretnine.rs за €149k. Уточнить точную планировку и статус регистрации.",
+      "status": "active",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "last_checked": "2026-10-31",
+      "price_history": [
+        {
+          "date": "2026-10-31",
+          "price": 149000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-10-31",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-fontana-studentska-5425647648240",
+      "title": "Studentska — Fontana, 1.5 от собственника",
+      "district": "Novi Beograd",
+      "neighborhood": "Fontana",
+      "address": "Studentska, Fontana, Novi Beograd, Beograd",
+      "price": 165000,
+      "area": 41,
+      "rooms": 1.5,
+      "bedrooms": 1,
+      "floor": "2/4",
+      "registered": true,
+      "renovated": null,
+      "furnished": null,
+      "heating": "проверить",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/prodaja-fontana-vlasnik/5425647648240?kid=4",
+      "images": [],
+      "location": {
+        "lat": 44.8259,
+        "lng": 20.4104,
+        "precision": "approximate"
+      },
+      "priority": 1,
+      "pros": [
+        "Fontana / Studentska",
+        "от собственника без агентства",
+        "uknjiženo 1/1 по заявлению",
+        "41 м²",
+        "2 этаж",
+        "светлая"
+      ],
+      "cons": [
+        "€4k/м²",
+        "состояние ремонта и отопление проверить",
+        "карточка Halo динамическая"
+      ],
+      "comment": "Каталог Halo от 28.10.2026: €165k, 41 м², 1.5, II/4, продавец владелец. Не путать с другим объектом Studentska 46 м² City Expert.",
+      "status": "active",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "last_checked": "2026-10-31",
+      "price_history": [
+        {
+          "date": "2026-10-31",
+          "price": 165000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-10-31",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-dr-ivana-ribara-5425647902885",
+      "title": "Dr Ivana Ribara — 1.5, Blok 72",
+      "district": "Novi Beograd",
+      "neighborhood": "Dr Ivana Ribara / Blok 72",
+      "address": "Dr Ivana Ribara, Novi Beograd, Beograd",
+      "price": 169900,
+      "area": 50,
+      "rooms": 1.5,
+      "bedrooms": 1,
+      "floor": "VPR/6",
+      "registered": true,
+      "renovated": false,
+      "furnished": null,
+      "heating": "Centralno",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/dr-ivana-ribara-srednji-deo-1-5-50l/5425647902885?kid=4",
+      "images": [],
+      "location": {
+        "lat": 44.7986,
+        "lng": 20.376,
+        "precision": "approximate"
+      },
+      "priority": 1,
+      "pros": [
+        "50 м²",
+        "€3.4k/м²",
+        "uknjiženo как 1.0",
+        "переделана в 1.5",
+        "центральное отопление",
+        "лифт",
+        "лоджия"
+      ],
+      "cons": [
+        "высокое приземље",
+        "50 м² включает застеклённую лоджию",
+        "зарегистрированную площадь проверить",
+        "исходное состояние",
+        "2% комиссия"
+      ],
+      "comment": "Обновлено 30.10.2026; дополнительно подтверждено агентством Teofil на других витринах. Фактическая площадь с лоджией 50 м²; площадь по кадастру уточнить.",
+      "status": "active",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "last_checked": "2026-10-31",
+      "price_history": [
+        {
+          "date": "2026-10-31",
+          "price": 169900
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-10-31",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-nova-galenika-5425647756525",
+      "title": "Josipa Šenera — Nova Galenika, 1.5",
+      "district": "Zemun",
+      "neighborhood": "Nova Galenika",
+      "address": "Josipa Šenera, Nova Galenika, Zemun, Beograd",
+      "price": 148000,
+      "area": 48,
+      "rooms": 1.5,
+      "bedrooms": 1,
+      "floor": "8/10",
+      "registered": null,
+      "renovated": null,
+      "furnished": null,
+      "heating": "Centralno",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/nova-galenika-lep-1-5-soban-stan/5425647756525?kid=1",
+      "images": [],
+      "location": {
+        "lat": 44.8662,
+        "lng": 20.3724,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "48 м²",
+        "8 этаж",
+        "2 лифта",
+        "центральное отопление",
+        "кирпичный фасад",
+        "район Nova Galenika"
+      ],
+      "cons": [
+        "uknjiženost не подтверждена",
+        "ремонт уточнить",
+        "карточка Halo динамическая"
+      ],
+      "comment": "Каталог Halo от 30.10.2026: €148k, 48 м², 1.5, VIII/10, дом 1980-х с двумя лифтами.",
+      "status": "active",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "last_checked": "2026-10-31",
+      "price_history": [
+        {
+          "date": "2026-10-31",
+          "price": 148000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-10-31",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-vinogradska-5425647896051",
+      "title": "Vinogradska 38 — Stara Bežanija, 1.0",
+      "district": "Novi Beograd",
+      "neighborhood": "Stara Bežanija",
+      "address": "Vinogradska 38, Stara Bežanija, Novi Beograd, Beograd",
+      "price": 130134,
+      "area": 36.97,
+      "rooms": 1,
+      "bedrooms": 0,
+      "floor": "1/5",
+      "registered": null,
+      "renovated": true,
+      "furnished": false,
+      "heating": "проверить",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/vinogradska-38-37m2-bez-provizije-novogradnja/5425647896051?kid=4",
+      "images": [],
+      "location": {
+        "lat": 44.8068,
+        "lng": 20.3553,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "новостройка",
+        "36,97 м²",
+        "1 этаж",
+        "без агентской комиссии по названию",
+        "цена ниже €140k"
+      ],
+      "cons": [
+        "срок сдачи уточнить",
+        "PDV в цене уточнить",
+        "статус документов и лифт уточнить",
+        "карточка Halo динамическая"
+      ],
+      "comment": "Каталог Halo от 29.10.2026: €130 134 = €3520/м² за 36,97 м². Не добавлял НДС без подтверждения, финальную цену и условия сделки нужно уточнить.",
+      "status": "active",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "last_checked": "2026-10-31",
+      "price_history": [
+        {
+          "date": "2026-10-31",
+          "price": 130134
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-10-31",
           "status": "active"
         }
       ]
