@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31",
+  "updated_at": "2026-11-01",
   "currency": "EUR",
   "notes": "Координаты ориентировочные, так как часть агентств скрывает точный дом до назначения просмотра. Для новостроек цена в JSON может быть приведена к приблизительной цене с PDV для честного сравнения — см. price_note.",
   "apartments": [
@@ -42,7 +42,7 @@
       "comment": "Один из лучших вариантов цена/качество: можно экономить относительно €190–200k без явной потери по состоянию.",
       "status": "active",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-11-01",
       "price_history": [
         {
           "date": "2026-10-20",
@@ -55,7 +55,7 @@
           "status": "active"
         }
       ],
-      "last_checked": "2026-10-29"
+      "last_checked": "2026-11-01"
     },
     {
       "id": "vespucijeva-191488548",
@@ -157,7 +157,7 @@
       "comment": "Прямое попадание в желаемый тип района. Стоит смотреть даже как ориентир по микролокации.",
       "status": "active",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-11-01",
       "price_history": [
         {
           "date": "2026-10-20",
@@ -170,7 +170,7 @@
           "status": "active"
         }
       ],
-      "last_checked": "2026-10-29"
+      "last_checked": "2026-11-01"
     },
     {
       "id": "blok61-dusana-190764485",
@@ -213,7 +213,7 @@
       "comment": "Вариант «заехать и жить». Хорош для сравнения с более дешёвыми объектами, которым нужен ремонт.",
       "status": "active",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-11-01",
       "price_history": [
         {
           "date": "2026-10-20",
@@ -226,7 +226,7 @@
           "status": "active"
         }
       ],
-      "last_checked": "2026-10-29"
+      "last_checked": "2026-11-01"
     },
     {
       "id": "blok63-196343165",
@@ -472,7 +472,7 @@
         "precision": "approximate"
       },
       "priority": 1,
-      "last_checked": "2026-10-29",
+      "last_checked": "2026-11-01",
       "pros": [
         "68 м²",
         "чистые документы",
@@ -491,7 +491,7 @@
       "comment": "Сильное соотношение площади, этажа и цены для Земуна. Лоджию можно использовать для дополнительной комнаты, но зарегистрированную площадь отдельно перепроверить.",
       "status": "active",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-11-01",
       "price_history": [
         {
           "date": "2026-10-20",
@@ -593,7 +593,7 @@
         "precision": "approximate"
       },
       "priority": 2,
-      "last_checked": "2026-10-29",
+      "last_checked": "2026-11-01",
       "pros": [
         "89 м²",
         "2 спальни",
@@ -611,7 +611,7 @@
       "comment": "Очень много площади за €197k и полностью зарегистрированные 89 м². Главный вопрос — насколько вам понравится приземље и отопление электричеством.",
       "status": "active",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-11-01",
       "price_history": [
         {
           "date": "2026-10-20",
@@ -651,7 +651,7 @@
         "precision": "approximate"
       },
       "priority": 2,
-      "last_checked": "2026-10-29",
+      "last_checked": "2026-11-01",
       "pros": [
         "2 спальни",
         "ремонт 2026",
@@ -670,7 +670,7 @@
       "comment": "Свежий ремонт и две спальни — вариант без строительной эпопеи. Проверить крышу/последний этаж и расхождение площади.",
       "status": "active",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-11-01",
       "price_history": [
         {
           "date": "2026-10-20",
@@ -774,7 +774,7 @@
         "precision": "approximate"
       },
       "priority": 2,
-      "last_checked": "2026-10-29",
+      "last_checked": "2026-11-01",
       "pros": [
         "70 м²",
         "2 спальни",
@@ -792,7 +792,7 @@
       "comment": "Хороший семейный вариант в Blok 45: не дешёвый, зато 70 м² и две спальни без заявленной необходимости большого ремонта.",
       "status": "active",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-11-01",
       "price_history": [
         {
           "date": "2026-10-20",
@@ -1045,7 +1045,7 @@
         "precision": "approximate"
       },
       "priority": 2,
-      "last_checked": "2026-10-29",
+      "last_checked": "2026-11-01",
       "pros": [
         "полноценная 2.0",
         "46 м²",
@@ -1063,7 +1063,7 @@
       "comment": "Новостройка на Ledine, сдача июль 2027. Важное уточнение 25.10: PDV 10% НЕ применяется — прежнее повышение цены в трекере было ошибкой, не изменением цены продавца.",
       "status": "active",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-11-01",
       "price_history": [
         {
           "date": "2026-10-20",
@@ -1231,7 +1231,7 @@
         "precision": "approximate"
       },
       "priority": 1,
-      "last_checked": "2026-10-29",
+      "last_checked": "2026-11-01",
       "pros": [
         "у Студгорода",
         "uknjiženo 35/35",
@@ -1247,7 +1247,7 @@
       "comment": "По атмосфере и расположению — почти ровно то, что искали. Маленькая, но хороший ориентир для дешёвого входа в Studentski grad.",
       "status": "active",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-11-01",
       "price_history": [
         {
           "date": "2026-10-20",
@@ -1290,7 +1290,7 @@
         "precision": "approximate"
       },
       "priority": 2,
-      "last_checked": "2026-10-29",
+      "last_checked": "2026-11-01",
       "pros": [
         "44 м²",
         "отдельная спальня",
@@ -1307,7 +1307,7 @@
       "comment": "Хорошая дешёвая альтернатива Новому Белграду: заметно больше площади за те же деньги, при этом не квартира под полный ремонт.",
       "status": "active",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-11-01",
       "price_history": [
         {
           "date": "2026-10-20",
@@ -1748,8 +1748,8 @@
       "comment": "Сильный вариант по соотношению цены и метража с гаражом. Объявление обновлялось 24.09.2026, карточка доступна при проверке 26.10.2026. Юридический статус гаража и точную зарегистрированную площадь уточнить.",
       "status": "active",
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-29",
-      "last_checked": "2026-10-29",
+      "last_seen": "2026-11-01",
+      "last_checked": "2026-11-01",
       "price_history": [
         {
           "date": "2026-10-26",
@@ -1922,8 +1922,8 @@
       "comment": "Очень много площади за €185k, но 20 м² расхождения с кадастром. Рассматривать только после проверки технической документации, законности площади и состояния крыши.",
       "status": "active",
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-30",
-      "last_checked": "2026-10-30",
+      "last_seen": "2026-11-01",
+      "last_checked": "2026-11-01",
       "price_history": [
         {
           "date": "2026-10-26",
@@ -1984,8 +1984,8 @@
       "comment": "Скорее ориентир цен на хороший район, чем самый выгодный вариант. City Expert показывает €174 900, 42 м², 11/13; доступность подтверждена карточкой и каталогом 26.10.2026.",
       "status": "active",
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-29",
-      "last_checked": "2026-10-29",
+      "last_seen": "2026-11-01",
+      "last_checked": "2026-11-01",
       "price_history": [
         {
           "date": "2026-10-26",
@@ -2096,8 +2096,8 @@
       "comment": "Низкая цена за метраж; объявление обещает заселение примерно через месяц, но перед просмотром проверить готовность, ввод в эксплуатацию, uknjiženost, состав площади и включён ли PDV.",
       "status": "active",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-29",
-      "last_checked": "2026-10-29",
+      "last_seen": "2026-11-01",
+      "last_checked": "2026-11-01",
       "price_history": [
         {
           "date": "2026-10-27",
@@ -2155,8 +2155,8 @@
       "comment": "В разных агентствах может дублироваться как 1.5/2.0: сопоставлены одинаковые площадь, этаж, цена и адрес, добавлена одна карточка. Перед просмотром проверить статус регистрации, крышу и окончательную цену.",
       "status": "active",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-29",
-      "last_checked": "2026-10-29",
+      "last_seen": "2026-11-01",
+      "last_checked": "2026-11-01",
       "price_history": [
         {
           "date": "2026-10-27",
@@ -2371,7 +2371,7 @@
       "comment": "Объявление 27.10.2026: современный дом рядом с Prvomajska; уточнить входит ли парковка в указанную цену.",
       "status": "active",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-11-01",
       "price_history": [
         {
           "date": "2026-10-28",
@@ -2384,7 +2384,7 @@
           "status": "active"
         }
       ],
-      "last_checked": "2026-10-29"
+      "last_checked": "2026-11-01"
     },
     {
       "id": "halo-ugrinovacka-5425647888022",
@@ -2634,7 +2634,7 @@
       "comment": "Объявление владельца 27.10.2026: квартира с мебелью, odmah useljiv; проверить uknjiženost.",
       "status": "active",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-11-01",
       "price_history": [
         {
           "date": "2026-10-28",
@@ -2646,7 +2646,8 @@
           "date": "2026-10-28",
           "status": "active"
         }
-      ]
+      ],
+      "last_checked": "2026-11-01"
     },
     {
       "id": "nekretnine-bergerovih-1011247",
@@ -2745,7 +2746,7 @@
       "comment": "В объявлении 25.05.2026 заявлено uknjiženo; проверить реальную систему отопления.",
       "status": "active",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-11-01",
       "price_history": [
         {
           "date": "2026-10-28",
@@ -2758,7 +2759,7 @@
           "status": "active"
         }
       ],
-      "last_checked": "2026-10-29"
+      "last_checked": "2026-11-01"
     },
     {
       "id": "kp-altina-pavla-vuisica-196271577",
@@ -2855,8 +2856,8 @@
       "comment": "Бюджетная двушка. В объявлении мало конкретики о документах и состоянии; перед просмотром запросить выписку и фото.",
       "status": "active",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
-      "last_checked": "2026-10-29",
+      "last_seen": "2026-11-01",
+      "last_checked": "2026-11-01",
       "price_history": [
         {
           "date": "2026-10-29",
@@ -2911,8 +2912,8 @@
       "comment": "Полностью оборудованная зарегистрированная квартира в относительно новом доме. По документам выглядит надёжнее многих дешёвых новостроек Altina.",
       "status": "active",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
-      "last_checked": "2026-10-29",
+      "last_seen": "2026-11-01",
+      "last_checked": "2026-11-01",
       "price_history": [
         {
           "date": "2026-10-29",
@@ -3100,7 +3101,7 @@
       "district": "Zemun",
       "neighborhood": "Meandri",
       "address": "Meandri, Zemun, Beograd",
-      "price": 176500,
+      "price": 170000,
       "area": 65,
       "rooms": 2,
       "bedrooms": 1,
@@ -3119,7 +3120,7 @@
       },
       "priority": 1,
       "pros": [
-        "65 м² за €176.5k",
+        "65 м² за €170k",
         "зелёный район",
         "лоджия 7 м²",
         "4 этаж",
@@ -3130,15 +3131,19 @@
         "uknjiženost не подтверждена",
         "ремонт и лифт требуют уточнения"
       ],
-      "comment": "Один из наиболее интересных по метражу в Meandri. Каталог Halo Oglasi от 26.10 показывает €176 500; индивидуальная карточка динамическая.",
+      "comment": "По каталогу Halo Oglasi от 31.10.2026 цена снижена до €170 000 (ранее €176 500); 65 м², лоджия 7 м², IV/7. Регистрацию и ремонт проверить.",
       "status": "active",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
-      "last_checked": "2026-10-29",
+      "last_seen": "2026-11-01",
+      "last_checked": "2026-11-01",
       "price_history": [
         {
           "date": "2026-10-29",
           "price": 176500
+        },
+        {
+          "date": "2026-11-01",
+          "price": 170000
         }
       ],
       "status_history": [
@@ -3188,8 +3193,8 @@
       "comment": "Сильный семейный вариант по площади и цене. Цена €178 000 зафиксирована в свежем каталоге Halo Oglasi от 26.10; у агентства проверить документы и точный метраж.",
       "status": "active",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-29",
-      "last_checked": "2026-10-29",
+      "last_seen": "2026-11-01",
+      "last_checked": "2026-11-01",
       "price_history": [
         {
           "date": "2026-10-29",
@@ -3245,8 +3250,8 @@
       "comment": "Умеренная цена за зарегистрированные 64 м², центральное отопление и две спальни. В объявлении структура 2.0 при двух спальнях — планировку проверить.",
       "status": "active",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
-      "last_checked": "2026-10-30",
+      "last_seen": "2026-11-01",
+      "last_checked": "2026-11-01",
       "price_history": [
         {
           "date": "2026-10-30",
@@ -3298,8 +3303,8 @@
       "comment": "Интересный вариант по локации: зарегистрированные 43 м² в Blok 19a дешевле многих соседних квартир. Важно проверить крышу и лифт.",
       "status": "active",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
-      "last_checked": "2026-10-30",
+      "last_seen": "2026-11-01",
+      "last_checked": "2026-11-01",
       "price_history": [
         {
           "date": "2026-10-30",
@@ -3526,8 +3531,8 @@
       "comment": "По карточке от 30.10.2026: €119k, 52 м², ухоженный небольшой дом, зарегистрирована. Дата сделки и документы проверяются у продавца.",
       "status": "active",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31",
-      "last_checked": "2026-10-31",
+      "last_seen": "2026-11-01",
+      "last_checked": "2026-11-01",
       "price_history": [
         {
           "date": "2026-10-31",
@@ -3586,8 +3591,8 @@
       "comment": "Объявление также присутствует в свежем каталоге Halo Oglasi от 28.10.2026. У Nekretnine.rs есть фото и подробное описание.",
       "status": "active",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31",
-      "last_checked": "2026-10-31",
+      "last_seen": "2026-11-01",
+      "last_checked": "2026-11-01",
       "price_history": [
         {
           "date": "2026-10-31",
@@ -3644,8 +3649,8 @@
       "comment": "Появляется в каталоге Halo 30.10.2026 и Nekretnine.rs за €149k. Уточнить точную планировку и статус регистрации.",
       "status": "active",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31",
-      "last_checked": "2026-10-31",
+      "last_seen": "2026-11-01",
+      "last_checked": "2026-11-01",
       "price_history": [
         {
           "date": "2026-10-31",
@@ -3699,8 +3704,8 @@
       "comment": "Каталог Halo от 28.10.2026: €165k, 41 м², 1.5, II/4, продавец владелец. Не путать с другим объектом Studentska 46 м² City Expert.",
       "status": "active",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31",
-      "last_checked": "2026-10-31",
+      "last_seen": "2026-11-01",
+      "last_checked": "2026-11-01",
       "price_history": [
         {
           "date": "2026-10-31",
@@ -3757,8 +3762,8 @@
       "comment": "Обновлено 30.10.2026; дополнительно подтверждено агентством Teofil на других витринах. Фактическая площадь с лоджией 50 м²; площадь по кадастру уточнить.",
       "status": "active",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31",
-      "last_checked": "2026-10-31",
+      "last_seen": "2026-11-01",
+      "last_checked": "2026-11-01",
       "price_history": [
         {
           "date": "2026-10-31",
@@ -3878,6 +3883,755 @@
       "status_history": [
         {
           "date": "2026-10-31",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-5425647789748",
+      "title": "Studentska — Fontana, 1.5 за €123.9k",
+      "district": "Novi Beograd",
+      "neighborhood": "Fontana / Studentska",
+      "address": "Studentska, Fontana, Novi Beograd, Beograd",
+      "price": 123900,
+      "area": 35,
+      "rooms": 1.5,
+      "bedrooms": 1,
+      "floor": "5/5",
+      "registered": null,
+      "renovated": null,
+      "furnished": false,
+      "heating": "проверить",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/odlican-1-5-na-novom-beogradu-kod-fontane/5425647789748",
+      "images": [],
+      "location": {
+        "lat": 44.8273,
+        "lng": 20.4108,
+        "precision": "approximate"
+      },
+      "priority": 1,
+      "pros": [
+        "Fontana, рядом со Студгородом",
+        "отдельная спальня",
+        "цена ниже €125k",
+        "35 м²"
+      ],
+      "cons": [
+        "последний этаж 5/5",
+        "состояние отделки и лифт уточнить",
+        "документы проверить"
+      ],
+      "comment": "Каталог Halo Oglasi 31.10: €123 900, 35 м², V/5. Возможно вариант в серой отделке; сверить фото и документы перед просмотром.",
+      "status": "active",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "last_checked": "2026-11-01",
+      "price_history": [
+        {
+          "date": "2026-11-01",
+          "price": 123900
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-01",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-5425647822228",
+      "title": "Filipa Višnjića — Gornji grad, 1.5",
+      "district": "Zemun",
+      "neighborhood": "Gornji grad",
+      "address": "Filipa Višnjića, Gornji grad, Zemun, Beograd",
+      "price": 129000,
+      "area": 36,
+      "rooms": 1.5,
+      "bedrooms": 1,
+      "floor": "3/4",
+      "registered": null,
+      "renovated": null,
+      "furnished": null,
+      "heating": "проверить",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/dobar-jednoiposoban-u-zemunu-36m2-na-3-spratu/5425647822228",
+      "images": [],
+      "location": {
+        "lat": 44.8528,
+        "lng": 20.4018,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "отдельная спальня",
+        "зелёная улица",
+        "рядом со школой и Ugrinovačka",
+        "3 этаж"
+      ],
+      "cons": [
+        "36 м²",
+        "документы и ремонт проверить",
+        "комиссия агентства"
+      ],
+      "comment": "Каталог Halo 31.10: €129k, 36 м², III/4; агентство.",
+      "status": "active",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "last_checked": "2026-11-01",
+      "price_history": [
+        {
+          "date": "2026-11-01",
+          "price": 129000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-01",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-5425647906833",
+      "title": "Valtrovićeva — Ledine, новостройка 1.5",
+      "district": "Novi Beograd",
+      "neighborhood": "Ledine",
+      "address": "Valtrovićeva 16đ, Ledine, Novi Beograd, Beograd",
+      "price": 112000,
+      "area": 39,
+      "rooms": 1.5,
+      "bedrooms": 1,
+      "floor": "2/4",
+      "registered": null,
+      "renovated": true,
+      "furnished": false,
+      "heating": "проверить",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/novogradnja-ledine/5425647906833",
+      "images": [],
+      "location": {
+        "lat": 44.7928,
+        "lng": 20.3538,
+        "precision": "approximate"
+      },
+      "priority": 3,
+      "pros": [
+        "€112k за 39 м²",
+        "отдельная спальня",
+        "2 этаж",
+        "новостройка"
+      ],
+      "cons": [
+        "Ledine дальше от центра",
+        "uknjiženost/PDV/готовность дома уточнить",
+        "отделка и состояние не подтверждены"
+      ],
+      "comment": "Каталог Halo 31.10: €112k, 39 м², II/4, инвестор. Цену с PDV проверить.",
+      "status": "active",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "last_checked": "2026-11-01",
+      "price_history": [
+        {
+          "date": "2026-11-01",
+          "price": 112000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-01",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-5425647816533",
+      "title": "Smolućska — Bežanijska kosa, Lux 51",
+      "district": "Novi Beograd",
+      "neighborhood": "Bežanijska kosa 1",
+      "address": "Smolućska, Bežanijska kosa, Novi Beograd, Beograd",
+      "price": 185000,
+      "area": 45,
+      "rooms": 1.5,
+      "bedrooms": 1,
+      "floor": "3/6",
+      "registered": null,
+      "renovated": true,
+      "furnished": false,
+      "heating": "проверить",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/novogradnja-useljiv-garaza/5425647816533",
+      "images": [],
+      "location": {
+        "lat": 44.8382,
+        "lng": 20.3752,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "Bežanijska kosa",
+        "новый комплекс Lux 51",
+        "готов к заселению по объявлению",
+        "3 этаж"
+      ],
+      "cons": [
+        "€4.1k/м²",
+        "гараж может оплачиваться отдельно",
+        "юридический статус и итоговую цену проверить"
+      ],
+      "comment": "Каталог Halo 30.10: €185k, 45 м², III/6. Вероятно тот же объект, что другие объявления Lux 51; внесён один вариант.",
+      "status": "active",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "last_checked": "2026-11-01",
+      "price_history": [
+        {
+          "date": "2026-11-01",
+          "price": 185000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-01",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-5425647903275",
+      "title": "Oplenačka — Ledine, 67 м², 3.0",
+      "district": "Novi Beograd",
+      "neighborhood": "Ledine / Oplenačka",
+      "address": "Oplenačka 5–14, Ledine, Novi Beograd, Beograd",
+      "price": 183000,
+      "area": 67,
+      "rooms": 3,
+      "bedrooms": 2,
+      "floor": "2/3",
+      "registered": true,
+      "renovated": true,
+      "furnished": null,
+      "heating": "проверить",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/uknjzen-u-stambenom-kompleksu-prodaja-na-kred/5425647903275",
+      "images": [],
+      "location": {
+        "lat": 44.7921,
+        "lng": 20.3528,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "67 м²",
+        "две спальни",
+        "uknjiženo по заявлению",
+        "возможна ипотека",
+        "сразу готова к заселению"
+      ],
+      "cons": [
+        "Ledine",
+        "проверить регистрацию именно выбранной квартиры",
+        "точный номер дома неизвестен"
+      ],
+      "comment": "Каталог Halo 30.10: €183k, 67 м², II/3, инвестор, uknjiženo.",
+      "status": "active",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "last_checked": "2026-11-01",
+      "price_history": [
+        {
+          "date": "2026-11-01",
+          "price": 183000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-01",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-5425647369911",
+      "title": "Isidore Sekulić — Ledine, 66 м², 2.5",
+      "district": "Novi Beograd",
+      "neighborhood": "Ledine",
+      "address": "Isidore Sekulić, Ledine, Novi Beograd, Beograd",
+      "price": 165000,
+      "area": 66,
+      "rooms": 2.5,
+      "bedrooms": 2,
+      "floor": "2/3",
+      "registered": null,
+      "renovated": true,
+      "furnished": null,
+      "heating": "проверить",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/novi-beograd-ledine-66m2-novogradnja-parking/5425647369911",
+      "images": [],
+      "location": {
+        "lat": 44.7934,
+        "lng": 20.3502,
+        "precision": "approximate"
+      },
+      "priority": 3,
+      "pros": [
+        "две спальни",
+        "66 м²",
+        "2 этаж",
+        "новостройка",
+        "парковка"
+      ],
+      "cons": [
+        "Ledine",
+        "заявлено разрешение на строительство, регистрацию проверить",
+        "ремонт и фактическую готовность уточнить"
+      ],
+      "comment": "Каталог Halo 30.10: €165k, 66 м², II/3, агентство.",
+      "status": "active",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "last_checked": "2026-11-01",
+      "price_history": [
+        {
+          "date": "2026-11-01",
+          "price": 165000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-01",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-5425647709136",
+      "title": "Ledine — 52 м², 2.5 с парковкой",
+      "district": "Novi Beograd",
+      "neighborhood": "Ledine / ближе к блокам",
+      "address": "Ledine, Novi Beograd, Beograd",
+      "price": 148000,
+      "area": 52,
+      "rooms": 2.5,
+      "bedrooms": 2,
+      "floor": "VPR/2",
+      "registered": true,
+      "renovated": true,
+      "furnished": true,
+      "heating": "проверить",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/lux-parking-polunamesten-blizina-blokova-id15/5425647709136",
+      "images": [],
+      "location": {
+        "lat": 44.7952,
+        "lng": 20.3655,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "€148k за 52 м²",
+        "две спальни",
+        "uknjiženo 1/1 по заявлению",
+        "без вложений",
+        "парковка"
+      ],
+      "cons": [
+        "высокое приземље",
+        "точный адрес не указан",
+        "проверить документы и фактическую площадь"
+      ],
+      "comment": "Каталог Halo 28.10: €148k, 52 м², VPR/2, полумеблирована, без обременений по заявлению.",
+      "status": "active",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "last_checked": "2026-11-01",
+      "price_history": [
+        {
+          "date": "2026-11-01",
+          "price": 148000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-01",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-5425647902877",
+      "title": "Bulevar Zorana Đinđića — Blok 30, 1.5",
+      "district": "Novi Beograd",
+      "neighborhood": "Blok 30 / Novi Merkator",
+      "address": "Bulevar Zorana Đinđića, Blok 30, Novi Beograd, Beograd",
+      "price": 190000,
+      "area": 43,
+      "rooms": 1.5,
+      "bedrooms": 1,
+      "floor": "4/10",
+      "registered": null,
+      "renovated": null,
+      "furnished": null,
+      "heating": "Centralno",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/odlicna-investiciona-prilika/5425647902877",
+      "images": [],
+      "location": {
+        "lat": 44.8158,
+        "lng": 20.4161,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "центральный Novi Beograd",
+        "близко к Arene и Novi Merkator",
+        "43 м²",
+        "4 этаж"
+      ],
+      "cons": [
+        "€4.4k/м²",
+        "проверить регистрацию и состояние",
+        "возможно дублируется у нескольких агентств"
+      ],
+      "comment": "Каталог Halo 30.10: €190k, 43 м², IV/10. Несколько агентств рекламируют похожий объект, не добавлять их отдельно без проверки.",
+      "status": "active",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "last_checked": "2026-11-01",
+      "price_history": [
+        {
+          "date": "2026-11-01",
+          "price": 190000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-01",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-5425647228764",
+      "title": "Blok 70 — вид на Саву, 1.5",
+      "district": "Novi Beograd",
+      "neighborhood": "Blok 70",
+      "address": "Blok 70, Novi Beograd, Beograd",
+      "price": 175000,
+      "area": 48,
+      "rooms": 1.5,
+      "bedrooms": 1,
+      "floor": "12/15",
+      "registered": null,
+      "renovated": null,
+      "furnished": null,
+      "heating": "проверить",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/blok-70-pogled-na-savu/5425647228764",
+      "images": [],
+      "location": {
+        "lat": 44.8017,
+        "lng": 20.3958,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "Blok 70",
+        "вид на Саву по объявлению",
+        "48 м²",
+        "инфраструктура и транспорт"
+      ],
+      "cons": [
+        "12 этаж",
+        "состояние ремонта и документы уточнить",
+        "высокий этаж"
+      ],
+      "comment": "Каталог Halo 30.10: €175k, 48 м², XII/15, 1.5.",
+      "status": "active",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "last_checked": "2026-11-01",
+      "price_history": [
+        {
+          "date": "2026-11-01",
+          "price": 175000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-01",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-5425647622296",
+      "title": "Sremskih boraca — Meandri, 79 м²",
+      "district": "Zemun",
+      "neighborhood": "Meandri",
+      "address": "Sremskih boraca, Meandri, Zemun, Beograd",
+      "price": 198000,
+      "area": 79,
+      "rooms": 3,
+      "bedrooms": 2,
+      "floor": "PR/5",
+      "registered": true,
+      "renovated": null,
+      "furnished": null,
+      "heating": "проверить",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/moze-kredit-za-preporuku-funkcionalan-adaptib/5425647622296",
+      "images": [],
+      "location": {
+        "lat": 44.8516,
+        "lng": 20.3868,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "79 м²",
+        "3.0",
+        "uknjiženo 1/1 по объявлению",
+        "возможен кредит",
+        "хорошая площадь за бюджет"
+      ],
+      "cons": [
+        "приземље",
+        "полезная площадь 71 м², общая 79 м²",
+        "дом 1985, состояние проверить"
+      ],
+      "comment": "Каталог Halo 30.10: €198k, 79 м², PR/5, полезная площадь 71 м²; не путать с City Expert 90 м² на той же улице.",
+      "status": "active",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "last_checked": "2026-11-01",
+      "price_history": [
+        {
+          "date": "2026-11-01",
+          "price": 198000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-01",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-5425647437382",
+      "title": "Andreja Trajkovskog 3 — Ledine, 40 м², 1.5",
+      "district": "Novi Beograd",
+      "neighborhood": "Ledine",
+      "address": "Andreja Trajkovskog 3, Ledine, Novi Beograd, Beograd",
+      "price": 114000,
+      "area": 40,
+      "rooms": 1.5,
+      "bedrooms": 1,
+      "floor": "2/2",
+      "registered": true,
+      "renovated": true,
+      "furnished": null,
+      "heating": "проверить",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/ledine-novogradnja-uknjizeno/5425647437382",
+      "images": [],
+      "location": {
+        "lat": 44.7929,
+        "lng": 20.3488,
+        "precision": "approximate"
+      },
+      "priority": 3,
+      "pros": [
+        "40 м²",
+        "отдельная спальня",
+        "uknjiženo по заявлению",
+        "продажа напрямую",
+        "рядом со школой"
+      ],
+      "cons": [
+        "последний этаж 2/2",
+        "Ledine",
+        "документы на конкретную квартиру проверить"
+      ],
+      "comment": "Каталог Halo 26.10: €114k, 40 м², II/2; не путать с 24 м² в том же доме.",
+      "status": "active",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "last_checked": "2026-11-01",
+      "price_history": [
+        {
+          "date": "2026-11-01",
+          "price": 114000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-01",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-5425647896288",
+      "title": "Dr Ivana Ribara — Blok 61, 47 м², 1.5",
+      "district": "Novi Beograd",
+      "neighborhood": "Blok 61",
+      "address": "Dr Ivana Ribara, Blok 61, Novi Beograd, Beograd",
+      "price": 172000,
+      "area": 47,
+      "rooms": 1.5,
+      "bedrooms": 1,
+      "floor": "3/5",
+      "registered": true,
+      "renovated": true,
+      "furnished": null,
+      "heating": "проверить",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/blok-61-1-5-47l-renoviran-useljiv/5425647896288",
+      "images": [],
+      "location": {
+        "lat": 44.8009,
+        "lng": 20.3772,
+        "precision": "approximate"
+      },
+      "priority": 1,
+      "pros": [
+        "Blok 61",
+        "после ремонта",
+        "можно заселиться",
+        "3 этаж",
+        "47 м²"
+      ],
+      "cons": [
+        "зарегистрировано 38 м² + лоджия",
+        "€3.7k/м²",
+        "проверить юридическую площадь"
+      ],
+      "comment": "Каталог Halo 29.10: €172k, 47 м² с лоджией, III/5, изначально 1.0 перепланирован в 1.5.",
+      "status": "active",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "last_checked": "2026-11-01",
+      "price_history": [
+        {
+          "date": "2026-11-01",
+          "price": 172000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-01",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-5425647502039",
+      "title": "Ledine — 38,54 м², 1.5 с парковкой",
+      "district": "Novi Beograd",
+      "neighborhood": "Ledine",
+      "address": "Ledine, Novi Beograd, Beograd",
+      "price": 99900,
+      "area": 38.54,
+      "rooms": 1.5,
+      "bedrooms": 1,
+      "floor": "2/2",
+      "registered": null,
+      "renovated": true,
+      "furnished": false,
+      "heating": "проверить",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/uskoro-useljivo-uracunato-parking-mesto-id143/5425647502039",
+      "images": [],
+      "location": {
+        "lat": 44.7944,
+        "lng": 20.3582,
+        "precision": "approximate"
+      },
+      "priority": 4,
+      "pros": [
+        "ниже €100k",
+        "парковка включена",
+        "отдельная спальня",
+        "новостройка"
+      ],
+      "cons": [
+        "строится, сдача заявлена на апрель 2027",
+        "последний этаж 2/2",
+        "юридический статус и PDV проверить"
+      ],
+      "comment": "Каталог Halo 26.10: €99 900, 38.54 м², II/2, проект в строительстве, сдача апрель 2027.",
+      "status": "active",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "last_checked": "2026-11-01",
+      "price_history": [
+        {
+          "date": "2026-11-01",
+          "price": 99900
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-01",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-5425647405845",
+      "title": "Zagorska — Meandri, 77 м², 2.5",
+      "district": "Zemun",
+      "neighborhood": "Meandri",
+      "address": "Zagorska, Meandri, Zemun, Beograd",
+      "price": 195000,
+      "area": 77,
+      "rooms": 2.5,
+      "bedrooms": 2,
+      "floor": "PR/5",
+      "registered": true,
+      "renovated": null,
+      "furnished": null,
+      "heating": "проверить",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/meandri-dvoiposoban-stan-odmah-useljiv-id2517/5425647405845",
+      "images": [],
+      "location": {
+        "lat": 44.8491,
+        "lng": 20.3872,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "77 м²",
+        "две спальни",
+        "uknjiženo",
+        "готова к заселению",
+        "двусторонняя ориентация"
+      ],
+      "cons": [
+        "приземље",
+        "ремонт уточнить",
+        "комиссия агентства"
+      ],
+      "comment": "Каталог Halo 28.10: €195k, 77 м², PR/5; не путать с 79 м² на Sremskih boraca.",
+      "status": "active",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "last_checked": "2026-11-01",
+      "price_history": [
+        {
+          "date": "2026-11-01",
+          "price": 195000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-01",
           "status": "active"
         }
       ]
