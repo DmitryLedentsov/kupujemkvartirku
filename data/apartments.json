@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01",
+  "updated_at": "2026-11-02",
   "currency": "EUR",
   "notes": "Координаты ориентировочные, так как часть агентств скрывает точный дом до назначения просмотра. Для новостроек цена в JSON может быть приведена к приблизительной цене с PDV для честного сравнения — см. price_note.",
   "apartments": [
@@ -1231,7 +1231,7 @@
         "precision": "approximate"
       },
       "priority": 1,
-      "last_checked": "2026-11-01",
+      "last_checked": "2026-11-02",
       "pros": [
         "у Студгорода",
         "uknjiženo 35/35",
@@ -1245,7 +1245,7 @@
         "€4k+/м²"
       ],
       "comment": "По атмосфере и расположению — почти ровно то, что искали. Маленькая, но хороший ориентир для дешёвого входа в Studentski grad.",
-      "status": "active",
+      "status": "removed",
       "first_seen": "2026-10-20",
       "last_seen": "2026-11-01",
       "price_history": [
@@ -1263,8 +1263,13 @@
         {
           "date": "2026-10-20",
           "status": "active"
+        },
+        {
+          "date": "2026-11-02",
+          "status": "removed"
         }
-      ]
+      ],
+      "status_note": "На 02.11.2026 исходная страница Nekretnine.rs /oglasi/1579751/ дважды возвращала 404; подтверждения продажи нет."
     },
     {
       "id": "gornji-grad-nekretnine-1519499",
@@ -4632,6 +4637,340 @@
       "status_history": [
         {
           "date": "2026-11-01",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-stojana-aralice-5425647747660",
+      "title": "Stojana Aralice 28 — Bežanijska kosa 1",
+      "district": "Novi Beograd",
+      "neighborhood": "Bežanijska kosa 1",
+      "address": "Stojana Aralice 28, Novi Beograd, Beograd",
+      "price": 168500,
+      "area": 52,
+      "rooms": 2.5,
+      "bedrooms": 2,
+      "floor": "4/4",
+      "registered": true,
+      "renovated": null,
+      "furnished": null,
+      "heating": "проверить",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/bezanijska-kosa-1--stojana-aralice/5425647747660",
+      "images": [],
+      "location": {
+        "lat": 44.833,
+        "lng": 20.385,
+        "precision": "approximate"
+      },
+      "priority": 1,
+      "pros": [
+        "Bežanijska kosa 1",
+        "2 спальни по заявленной структуре 2.5",
+        "лифт",
+        "uknjiženo",
+        "€3240/м²"
+      ],
+      "cons": [
+        "последний этаж 4/4",
+        "состояние ремонта уточнить"
+      ],
+      "comment": "Сильный кандидат по цене и локации. Объявление актуально в каталоге 01.11.2026; индивидуальная карточка Halo загружается динамически, детали ремонта уточнить.",
+      "status": "active",
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
+      "last_checked": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 168500
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-02",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "kp-pariske-komune-195428646",
+      "title": "Pariske komune — Blok 2, 1.0",
+      "district": "Novi Beograd",
+      "neighborhood": "Blok 2 / Fontana",
+      "address": "Pariske komune, Blok 2, Novi Beograd, Beograd",
+      "price": 135000,
+      "area": 33,
+      "rooms": 1,
+      "bedrooms": 0,
+      "floor": "2/8",
+      "registered": true,
+      "renovated": false,
+      "furnished": false,
+      "heating": "Centralno",
+      "source": "KupujemProdajem",
+      "url": "https://www.kupujemprodajem.com/nekretnine-prodaja/stanovi/pariske-komune-blok-2-novi-beograd-beograd/oglas/195428646",
+      "images": [
+        "https://images.kupujemprodajem.com/photos/oglasi/6/64/195428646/big-195428646_6ad0b319896bc2-26654323179020637_1_202.webp"
+      ],
+      "location": {
+        "lat": 44.827,
+        "lng": 20.416,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "Blok 2",
+        "2 этаж",
+        "лифт недавно заменён",
+        "центральное отопление",
+        "uknjiženo",
+        "можно заселиться"
+      ],
+      "cons": [
+        "исходное состояние",
+        "33 м²",
+        "2% комиссия",
+        "цена фиксированная"
+      ],
+      "comment": "Недорогой по меркам Blok 2 вариант. Состояние исходное, но продавец указывает, что квартира сохранная и пригодна для заселения.",
+      "status": "active",
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
+      "last_checked": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 135000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-02",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-starca-vujadina-5425647911266",
+      "title": "Starca Vujadina — Retenzija, 2.0",
+      "district": "Zemun",
+      "neighborhood": "Retenzija",
+      "address": "Starca Vujadina, Retenzija, Zemun, Beograd",
+      "price": 177500,
+      "area": 43.4,
+      "rooms": 2,
+      "bedrooms": 1,
+      "floor": "4 (этажность уточнить)",
+      "registered": null,
+      "renovated": true,
+      "furnished": null,
+      "heating": "топлотна пумпа",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/dvosoban-stan-u-luksuznoj-zgradi/5425647911266",
+      "images": [],
+      "location": {
+        "lat": 44.846,
+        "lng": 20.406,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "объявление от собственника",
+        "новая качественная постройка",
+        "тепловые насосы",
+        "готова к заселению",
+        "видеонаблюдение и консьерж"
+      ],
+      "cons": [
+        "€4090/м²",
+        "uknjiženost проверить",
+        "детали лифта и комплектации уточнить"
+      ],
+      "comment": "Хороший готовый вариант в Retenzija; цена выше средней, зато заявлена качественная инженерия. Проверить документы.",
+      "status": "active",
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
+      "last_checked": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 177500
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-02",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-stevana-dubajica-5425647184692",
+      "title": "Stevana Dubajića — Batajnica, Green Home",
+      "district": "Zemun",
+      "neighborhood": "Batajnica",
+      "address": "Stevana Dubajića, Batajnica, Zemun, Beograd",
+      "price": 115000,
+      "area": 46.09,
+      "rooms": 2,
+      "bedrooms": 1,
+      "floor": "приземље/3",
+      "registered": null,
+      "renovated": true,
+      "furnished": null,
+      "heating": "проверить",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/useljiva-novogradnja---dvoriste---garaza/5425647184692",
+      "images": [],
+      "location": {
+        "lat": 44.902,
+        "lng": 20.28,
+        "precision": "approximate"
+      },
+      "priority": 3,
+      "pros": [
+        "новостройка готова к заселению",
+        "собственный двор",
+        "€2495/м²",
+        "современный комплекс Green Home"
+      ],
+      "cons": [
+        "приземље",
+        "Batajnica далеко от центральных районов",
+        "гараж и включение в цену проверить",
+        "документы уточнить"
+      ],
+      "comment": "Вариант с приватным двориком в комплексе Green Home; стоит рассматривать при готовности жить в Batajnica.",
+      "status": "active",
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
+      "last_checked": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 115000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-02",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "nekretnine-bezanija-1626213",
+      "title": "Bežanija / Bežanijska kosa — 1.5, новостройка",
+      "district": "Novi Beograd",
+      "neighborhood": "Bežanija / Bežanijska kosa",
+      "address": "Bežanija, Novi Beograd, Beograd (точный адрес скрыт)",
+      "price": 160105,
+      "listed_price": 145550,
+      "price_note": "В объявлении €145550 без 10% PDV; в сортировке учтена приблизительная полная цена €160105 до комиссии.",
+      "area": 35.5,
+      "rooms": 1.5,
+      "bedrooms": 1,
+      "floor": "высокое приземље/2",
+      "registered": null,
+      "renovated": true,
+      "furnished": false,
+      "heating": "электрическое автономное",
+      "source": "Nekretnine.rs",
+      "url": "https://www.nekretnine.rs/hr/oglasi/1626213/",
+      "images": [
+        "https://pic.nekretnine.rs/image/20261981/m-c.jpg"
+      ],
+      "location": {
+        "lat": 44.832,
+        "lng": 20.387,
+        "precision": "approximate"
+      },
+      "priority": 3,
+      "pros": [
+        "отдельная спальня",
+        "малоэтажный дом всего на 4 квартиры",
+        "современная отделка по описанию",
+        "доступна ипотека"
+      ],
+      "cons": [
+        "сдача только во второй половине 2027",
+        "цена без НДС в оригинальном объявлении",
+        "высокое приземље",
+        "2% комиссия",
+        "отопление электричеством"
+      ],
+      "comment": "Перспективная новостройка, но не вариант для скорого переезда. Площадь 35,5 м² по описанию (в шапке округлена до 35).",
+      "status": "active",
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
+      "last_checked": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 160105
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-02",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-rade-koncara-5425647906538",
+      "title": "Rade Končara 22 — Gornji grad, 3.0",
+      "district": "Zemun",
+      "neighborhood": "Gornji grad / Zelena avenija",
+      "address": "Rade Končara 22, Zemun, Beograd",
+      "price": 191463,
+      "area": 60.02,
+      "rooms": 3,
+      "bedrooms": 2,
+      "floor": "3/4 (по Halo)",
+      "registered": null,
+      "renovated": true,
+      "furnished": false,
+      "heating": "подогрев пола / кондиционеры",
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/rade-koncara-22-60m2-3-0-bez-provizije-zemun/5425647906538",
+      "images": [],
+      "location": {
+        "lat": 44.845,
+        "lng": 20.397,
+        "precision": "approximate"
+      },
+      "priority": 3,
+      "pros": [
+        "две спальни",
+        "новостройка",
+        "цена включает PDV",
+        "без комиссии",
+        "возможна ипотека",
+        "современная инженерия"
+      ],
+      "cons": [
+        "сдача ориентировочно февраль 2028",
+        "гараж/парковка оплачиваются отдельно",
+        "регистрация после завершения строительства",
+        "близко к потолку бюджета"
+      ],
+      "comment": "Для мониторинга первичного рынка: €3190/м² с PDV, без комиссии, но ожидание до 2028. Этаж 3/4 по Halo, другое зеркало объявления указывает 1/4 — уточнить конкретную квартиру.",
+      "status": "active",
+      "first_seen": "2026-11-02",
+      "last_seen": "2026-11-02",
+      "last_checked": "2026-11-02",
+      "price_history": [
+        {
+          "date": "2026-11-02",
+          "price": 191463
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-02",
           "status": "active"
         }
       ]
