@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02",
+  "updated_at": "2026-11-04",
   "currency": "EUR",
   "notes": "Координаты ориентировочные, так как часть агентств скрывает точный дом до назначения просмотра. Для новостроек цена в JSON может быть приведена к приблизительной цене с PDV для честного сравнения — см. price_note.",
   "apartments": [
@@ -4971,6 +4971,120 @@
       "status_history": [
         {
           "date": "2026-11-02",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "kp-gornji-grad-192372360",
+      "title": "Gornji grad — новостройка 1.0, 26 м²",
+      "district": "Zemun",
+      "neighborhood": "Gornji grad / Zemunske kapije",
+      "address": "Gornji grad, Zemun, Beograd",
+      "price": 85800,
+      "area": 26,
+      "rooms": 1,
+      "bedrooms": 0,
+      "floor": "1/3",
+      "registered": null,
+      "renovated": true,
+      "furnished": false,
+      "heating": "электрическое",
+      "source": "KupujemProdajem",
+      "url": "https://www.kupujemprodajem.com/nekretnine-prodaja/stanovi/gornji-grad-zemun-beograd/oglas/192372360",
+      "images": [],
+      "location": {
+        "lat": 44.846,
+        "lng": 20.397,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "низкий бюджет входа",
+        "новостройка",
+        "лифт",
+        "лоджия",
+        "рядом Zemunske kapije"
+      ],
+      "cons": [
+        "26 м²",
+        "€78 000 указано без 10% PDV",
+        "агентская комиссия 2%",
+        "фактическая готовность после заявленного октября 2026 требует проверки",
+        "электроотопление"
+      ],
+      "price_note": "€78 000 + 10% PDV = €85 800; комиссия 2% дополнительно",
+      "comment": "Бюджетная компактная квартира; наличие и ввод дома подтвердить у агентства.",
+      "status": "active",
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "last_checked": "2026-11-04",
+      "price_history": [
+        {
+          "date": "2026-11-04",
+          "price": 85800
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-04",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "nek-ledine-1569521",
+      "title": "Ledine — новостройка 3.0, 66 м²",
+      "district": "Novi Beograd",
+      "neighborhood": "Ledine",
+      "address": "Ledine, Novi Beograd, Beograd",
+      "price": 193323,
+      "area": 66,
+      "rooms": 3,
+      "bedrooms": 2,
+      "floor": "3/3",
+      "registered": null,
+      "renovated": true,
+      "furnished": false,
+      "heating": "etažno",
+      "source": "Nekretnine.rs",
+      "url": "https://www.nekretnine.rs/oglasi/1569521/",
+      "images": [],
+      "location": {
+        "lat": 44.807,
+        "lng": 20.355,
+        "precision": "approximate"
+      },
+      "priority": 3,
+      "pros": [
+        "две спальни",
+        "66 м²",
+        "две террасы",
+        "современная отделка"
+      ],
+      "cons": [
+        "сдача до конца 2027",
+        "нет лифта, 3/3",
+        "парковка €15 000 + PDV отдельно",
+        "агентская комиссия 2%",
+        "в объявлении район Bežanijska kosa, описание уточняет Ledine",
+        "цена зависит от способа оплаты"
+      ],
+      "price_note": "Каталог €175 748; текст: €2 650/м² + 10% PDV при оплате наличными = около €192 390 за 66 м²; для ипотеки €2 750/м² + PDV = €199 650; требуется подтверждение точной площади и цены. В JSON цена €193 323 = 175748*1.10 округлённо.",
+      "comment": "Вариант с оговорками: при ипотеке почти потолок бюджета, с комиссией может превысить €200k.",
+      "status": "active",
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "last_checked": "2026-11-04",
+      "price_history": [
+        {
+          "date": "2026-11-04",
+          "price": 193323
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-04",
           "status": "active"
         }
       ]
