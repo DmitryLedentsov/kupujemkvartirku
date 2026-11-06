@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04",
+  "updated_at": "2026-11-06",
   "currency": "EUR",
   "notes": "Координаты ориентировочные, так как часть агентств скрывает точный дом до назначения просмотра. Для новостроек цена в JSON может быть приведена к приблизительной цене с PDV для честного сравнения — см. price_note.",
   "apartments": [
@@ -5085,6 +5085,60 @@
       "status_history": [
         {
           "date": "2026-11-04",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-5425645560002",
+      "title": "Braće Smiljanić — Nova Batajnica, 3.0",
+      "district": "Zemun",
+      "neighborhood": "Batajnica / Nova Batajnica",
+      "address": "Braće Smiljanić, Batajnica, Beograd",
+      "price": 126315,
+      "area": 60.15,
+      "rooms": 3,
+      "bedrooms": 2,
+      "floor": "2/2",
+      "registered": true,
+      "renovated": false,
+      "furnished": false,
+      "heating": null,
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/novogradnja-uknjizen-stan-60-15m2-nova-batajn/5425645560002",
+      "images": [],
+      "location": {
+        "lat": 44.902,
+        "lng": 20.278,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "новостройка",
+        "uknjižen по заголовку объявления",
+        "две спальни",
+        "продажа от застройщика без комиссии",
+        "€2100/м²"
+      ],
+      "cons": [
+        "удалённость Batajnica от Novi Beograd",
+        "последний этаж 2/2",
+        "индивидуальная карточка не раскрыла детали; проверить цену с НДС и документы"
+      ],
+      "comment": "Обнаружено в каталоге Halo Oglasi 06.11.2026; цена и параметры подтверждены каталогом, индивидуальная карточка загружается неполно.",
+      "status": "active",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-06",
+      "last_checked": "2026-11-06",
+      "price_history": [
+        {
+          "date": "2026-11-06",
+          "price": 126315
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-06",
           "status": "active"
         }
       ]
