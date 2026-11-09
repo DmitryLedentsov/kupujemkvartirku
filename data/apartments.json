@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08",
+  "updated_at": "2026-11-09",
   "currency": "EUR",
   "notes": "Координаты ориентировочные, так как часть агентств скрывает точный дом до назначения просмотра. Для новостроек цена в JSON может быть приведена к приблизительной цене с PDV для честного сравнения — см. price_note.",
   "apartments": [
@@ -5144,6 +5144,63 @@
       "status_history": [
         {
           "date": "2026-11-06",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "nekretnine-zemun-polje-1623783",
+      "title": "Zemun Polje — 55 m², 2.0, terasa",
+      "district": "Zemun",
+      "neighborhood": "Zemun Polje",
+      "address": "Zemun Polje, Beograd (точный адрес скрыт)",
+      "price": 145000,
+      "area": 55,
+      "rooms": 2,
+      "bedrooms": 1,
+      "floor": "1/2",
+      "registered": null,
+      "renovated": false,
+      "furnished": false,
+      "heating": null,
+      "source": "Nekretnine.rs",
+      "url": "https://www.nekretnine.rs/hr/oglasi/1623783/",
+      "images": [],
+      "location": {
+        "lat": 44.877,
+        "lng": 20.326,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "€2636/м²",
+        "хорошее жилое состояние по объявлению",
+        "просторная планировка",
+        "терраса и кладовая",
+        "1-й этаж",
+        "общая парковка"
+      ],
+      "cons": [
+        "удалённость от Novi Beograd",
+        "дом 1980 года",
+        "без лифта",
+        "агентская комиссия 2%",
+        "регистрация и отопление не подтверждены"
+      ],
+      "comment": "Объявление обновлено 31.10.2026. Проверить документы, состояние и реальную доступность; возможны дубли у агентства Art nekretnine.",
+      "status": "active",
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09",
+      "last_checked": "2026-11-09",
+      "price_history": [
+        {
+          "date": "2026-11-09",
+          "price": 145000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-09",
           "status": "active"
         }
       ]
