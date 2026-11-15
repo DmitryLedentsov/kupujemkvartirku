@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12",
+  "updated_at": "2026-11-15",
   "currency": "EUR",
   "notes": "Координаты ориентировочные, так как часть агентств скрывает точный дом до назначения просмотра. Для новостроек цена в JSON может быть приведена к приблизительной цене с PDV для честного сравнения — см. price_note.",
   "apartments": [
@@ -5205,6 +5205,118 @@
       "status_history": [
         {
           "date": "2026-11-09",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "nekretnine-1649075",
+      "title": "Zemun Bačka — 90 m², 4.0, renoviran",
+      "district": "Zemun",
+      "neighborhood": "Bačka / Novi Grad",
+      "address": "Zemun Bačka, Beograd (точный адрес не указан)",
+      "price": 185000,
+      "area": 90,
+      "rooms": 4,
+      "bedrooms": 3,
+      "floor": "4/4",
+      "registered": true,
+      "renovated": true,
+      "furnished": null,
+      "heating": "Norveški radijatori (электрическое)",
+      "source": "Nekretnine.rs",
+      "url": "https://www.nekretnine.rs/hr/oglasi/1649075/",
+      "images": [],
+      "location": {
+        "lat": 44.852,
+        "lng": 20.375,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "90 м² за €185k (€2056/м²)",
+        "полный ремонт, готов к заселению",
+        "три спальни",
+        "uknjižen",
+        "кладовая и чердак",
+        "общая парковка"
+      ],
+      "cons": [
+        "4/4 без лифта",
+        "электрическое отопление",
+        "агентская комиссия (размер уточнить)",
+        "адрес и документы перепроверить"
+      ],
+      "comment": "Объявление обновлено 10.11.2026; параметры по Nekretnine.rs. Координаты ориентировочные по району.",
+      "status": "active",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15",
+      "last_checked": "2026-11-15",
+      "price_history": [
+        {
+          "date": "2026-11-15",
+          "price": 185000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-15",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "nekretnine-1643413",
+      "title": "Tronoška — Zemun Polje, 56 м², 3.0",
+      "district": "Zemun",
+      "neighborhood": "Zemun Polje",
+      "address": "Tronoška, Zemun Polje, Beograd",
+      "price": 157800,
+      "area": 56,
+      "rooms": 3,
+      "bedrooms": 2,
+      "floor": "1 (точная этажность дома не уточнена)",
+      "registered": null,
+      "renovated": true,
+      "furnished": true,
+      "heating": "Centralno (по карточке)",
+      "source": "Nekretnine.rs",
+      "url": "https://www.nekretnine.rs/hr/oglasi/1643413/",
+      "images": [],
+      "location": {
+        "lat": 44.877,
+        "lng": 20.328,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "две отдельные спальни",
+        "полностью меблирована и оборудована",
+        "новый дом, никто не жил",
+        "парковочное место",
+        "терраса",
+        "без вложений по описанию"
+      ],
+      "cons": [
+        "Zemun Polje далеко от Studentski grad",
+        "комиссия агентства 2%",
+        "регистрация недвижимости не подтверждена",
+        "€2818/м²"
+      ],
+      "comment": "Объявление обновлено 06.11.2026. Координаты приблизительные, проверить регистрацию и условия парковки.",
+      "status": "active",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15",
+      "last_checked": "2026-11-15",
+      "price_history": [
+        {
+          "date": "2026-11-15",
+          "price": 157800
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-15",
           "status": "active"
         }
       ]
