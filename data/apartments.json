@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15",
+  "updated_at": "2026-11-16",
   "currency": "EUR",
   "notes": "Координаты ориентировочные, так как часть агентств скрывает точный дом до назначения просмотра. Для новостроек цена в JSON может быть приведена к приблизительной цене с PDV для честного сравнения — см. price_note.",
   "apartments": [
@@ -5320,6 +5320,60 @@
           "status": "active"
         }
       ]
+    },
+    {
+      "id": "kp-pedje-milosavljevica-196692978",
+      "title": "Peđe Milosavljevića — Bežanijska kosa 2",
+      "district": "Novi Beograd",
+      "neighborhood": "Bežanijska kosa 2",
+      "address": "Peđe Milosavljevića, Novi Beograd, Beograd",
+      "price": 193000,
+      "area": 55,
+      "rooms": 3,
+      "bedrooms": 2,
+      "floor": "2/7",
+      "registered": true,
+      "renovated": true,
+      "furnished": true,
+      "heating": "Centralno + klima",
+      "source": "KupujemProdajem",
+      "url": "https://www.kupujemprodajem.com/nekretnine-prodaja/stanovi/pedje-milosavljevica-bezanijska-kosa-2-novi-beograd-beograd/oglas/196692978",
+      "images": [],
+      "location": {
+        "lat": 44.839,
+        "lng": 20.382,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "uknjiženo 1/1",
+        "2/7, лифт",
+        "центральное отопление",
+        "ремонт, меблировка",
+        "зелёный район, парковка"
+      ],
+      "cons": [
+        "€3 509/м²",
+        "комиссия агентства 2% (€3 860)",
+        "планировку и состояние проверить при осмотре"
+      ],
+      "comment": "Агентский ID JN000555; тот же объект встречается на Halo Oglasi и NadjiDom. Общая цена с комиссией около €196 860.",
+      "status": "active",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "price_history": [
+        {
+          "date": "2026-11-16",
+          "price": 193000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-16",
+          "status": "active"
+        }
+      ],
+      "last_checked": "2026-11-16"
     }
   ],
   "lifecycle": {
