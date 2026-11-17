@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16",
+  "updated_at": "2026-11-17",
   "currency": "EUR",
   "notes": "Координаты ориентировочные, так как часть агентств скрывает точный дом до назначения просмотра. Для новостроек цена в JSON может быть приведена к приблизительной цене с PDV для честного сравнения — см. price_note.",
   "apartments": [
@@ -5374,6 +5374,59 @@
         }
       ],
       "last_checked": "2026-11-16"
+    },
+    {
+      "id": "halo-5425647934483",
+      "title": "Bežanijskih ilegalaca — Bežanijska kosa 2",
+      "district": "Novi Beograd",
+      "neighborhood": "Bežanijska kosa 2",
+      "address": "Bežanijskih ilegalaca, Novi Beograd, Beograd",
+      "price": 176000,
+      "area": 47,
+      "rooms": 2.5,
+      "bedrooms": 2,
+      "floor": "3/3",
+      "registered": null,
+      "renovated": null,
+      "furnished": null,
+      "heating": null,
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/novi-beograd-bezanijska-kosa-2-id1665/5425647934483?kid=4",
+      "images": [],
+      "location": {
+        "lat": 44.839,
+        "lng": 20.381,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "две отдельные спальни при 47 м²",
+        "хорошая жилая локация Bežanijska kosa 2",
+        "объявление отмечено как срочная продажа"
+      ],
+      "cons": [
+        "3/3 без лифта",
+        "€3 745/м²",
+        "состояние ремонта и регистрация собственности не подтверждены",
+        "агентская комиссия и итоговая стоимость требуют уточнения"
+      ],
+      "comment": "Предложение от 16.11.2026 по списку Halo Oglasi. Детальная карточка не отдает характеристики в текстовом просмотре; перед просмотром подтвердить состояние и документы.",
+      "status": "active",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "last_checked": "2026-11-17",
+      "price_history": [
+        {
+          "date": "2026-11-17",
+          "price": 176000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-17",
+          "status": "active"
+        }
+      ]
     }
   ],
   "lifecycle": {
