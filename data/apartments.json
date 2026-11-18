@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17",
+  "updated_at": "2026-11-18",
   "currency": "EUR",
   "notes": "Координаты ориентировочные, так как часть агентств скрывает точный дом до назначения просмотра. Для новостроек цена в JSON может быть приведена к приблизительной цене с PDV для честного сравнения — см. price_note.",
   "apartments": [
@@ -5424,6 +5424,109 @@
       "status_history": [
         {
           "date": "2026-11-17",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "nekretnine-1509767",
+      "title": "Pionirska — Sava Kovačević / Meandri, Zemun",
+      "district": "Zemun",
+      "neighborhood": "Sava Kovačević / Meandri",
+      "address": "Pionirska, Zemun, Beograd",
+      "price": 170000,
+      "area": 57,
+      "rooms": 2.5,
+      "bedrooms": 2,
+      "floor": "приземље",
+      "renovated": true,
+      "furnished": false,
+      "heating": "электрическое",
+      "source": "Nekretnine.rs",
+      "url": "https://www.nekretnine.rs/en/oglasi/1509767/",
+      "images": [],
+      "location": {
+        "lat": 44.845,
+        "lng": 20.408,
+        "precision": "approximate"
+      },
+      "pros": [
+        "после ремонта, по описанию готова к заселению",
+        "€2 982/м²",
+        "функциональная планировка"
+      ],
+      "cons": [
+        "первый этаж на уровне земли",
+        "электрическое отопление",
+        "комиссия 2%",
+        "описание указывает €175k, карточка €170k — уточнить цену"
+      ],
+      "comment": "На 18 ноября цена в карточке €170k, хотя в тексте осталось €175k. Юридический статус уточнить.",
+      "status": "active",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "last_checked": "2026-11-18",
+      "price_history": [
+        {
+          "date": "2026-11-18",
+          "price": 170000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-18",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "nekretnine-1582579",
+      "title": "Gornji Grad — у Zemunske kapije, 49 м²",
+      "district": "Zemun",
+      "neighborhood": "Gornji Grad / Zemunske kapije",
+      "address": "Gornji Grad, Zemun, Beograd",
+      "price": 175000,
+      "area": 49,
+      "rooms": 2,
+      "bedrooms": 1,
+      "floor": "5/5",
+      "renovated": true,
+      "furnished": false,
+      "heating": "центральное",
+      "source": "Nekretnine.rs",
+      "url": "https://www.nekretnine.rs/hr/oglasi/1582579/",
+      "images": [],
+      "location": {
+        "lat": 44.852,
+        "lng": 20.397,
+        "precision": "approximate"
+      },
+      "pros": [
+        "новостройка 2025",
+        "лифт и терраса",
+        "центральное отопление",
+        "рядом Zemunske kapije"
+      ],
+      "cons": [
+        "€3 571/м²",
+        "последний этаж",
+        "не меблирована",
+        "условия гаражного места и документы уточнить"
+      ],
+      "comment": "Указано гаражное место, неясно, включено ли в цену.",
+      "status": "active",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "last_checked": "2026-11-18",
+      "price_history": [
+        {
+          "date": "2026-11-18",
+          "price": 175000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-18",
           "status": "active"
         }
       ]
