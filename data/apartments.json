@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18",
+  "updated_at": "2026-11-19",
   "currency": "EUR",
   "notes": "Координаты ориентировочные, так как часть агентств скрывает точный дом до назначения просмотра. Для новостроек цена в JSON может быть приведена к приблизительной цене с PDV для честного сравнения — см. price_note.",
   "apartments": [
@@ -5530,6 +5530,61 @@
           "status": "active"
         }
       ]
+    },
+    {
+      "id": "nekretnine-1133761",
+      "title": "Sestara Strain — Galenika",
+      "district": "Zemun",
+      "neighborhood": "Galenika / Altina",
+      "address": "Sestara Strain, Galenika, Zemun, Beograd",
+      "price": 185000,
+      "area": 68,
+      "rooms": 2,
+      "bedrooms": 1,
+      "floor": "2/10",
+      "registered": true,
+      "renovated": false,
+      "furnished": false,
+      "heating": "Centralno grejanje",
+      "source": "Nekretnine.rs",
+      "url": "https://www.nekretnine.rs/it/oglasi/1133761/",
+      "images": [],
+      "location": {
+        "lat": 44.854,
+        "lng": 20.365,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "€2 721/м² по жилой площади 68 м²",
+        "собственник без агентской комиссии",
+        "зарегистрирована, по описанию чистые документы",
+        "центральное отопление, 2 лифта",
+        "две застеклённые лоджии, зелёный двор"
+      ],
+      "cons": [
+        "исходная отделка 1980-х, желательно обновление",
+        "только одна спальня без перепланировки",
+        "дальше от Studentski grad и Novi Beograd",
+        "объявление обновлялось в сентябре, доступность требует подтверждения"
+      ],
+      "comment": "Жилое состояние по описанию, не новоремонт; хороший метраж за бюджет. Проверить фото, состояние и документы на просмотре.",
+      "status": "active",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "price_history": [
+        {
+          "date": "2026-11-19",
+          "price": 185000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-19",
+          "status": "active"
+        }
+      ],
+      "last_checked": "2026-11-19"
     }
   ],
   "lifecycle": {
