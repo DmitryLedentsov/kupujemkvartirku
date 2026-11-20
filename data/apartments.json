@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19",
+  "updated_at": "2026-11-20",
   "currency": "EUR",
   "notes": "Координаты ориентировочные, так как часть агентств скрывает точный дом до назначения просмотра. Для новостроек цена в JSON может быть приведена к приблизительной цене с PDV для честного сравнения — см. price_note.",
   "apartments": [
@@ -5585,6 +5585,114 @@
         }
       ],
       "last_checked": "2026-11-19"
+    },
+    {
+      "id": "halo-nikole-dobrovica-5425647828840",
+      "title": "Nikole Dobrovića — Bežanijska kosa 2",
+      "district": "Novi Beograd",
+      "neighborhood": "Bežanijska kosa 2",
+      "address": "Nikole Dobrovića, Novi Beograd, Beograd",
+      "price": 165000,
+      "area": 53,
+      "rooms": 2,
+      "bedrooms": 1,
+      "floor": "VPR",
+      "registered": true,
+      "renovated": null,
+      "furnished": null,
+      "heating": null,
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/dvosoban-stan-na-bezaniji/5425647828840",
+      "images": [],
+      "location": {
+        "lat": 44.837,
+        "lng": 20.381,
+        "precision": "approximate"
+      },
+      "priority": 1,
+      "pros": [
+        "продажа от собственника",
+        "uknjiženo",
+        "терраса и сад",
+        "€3 113/м² в Bežanijska kosa"
+      ],
+      "cons": [
+        "высокий первый этаж",
+        "состояние ремонта не подтверждено",
+        "карточка объявления не раскрывает подробности при автоматическом просмотре"
+      ],
+      "comment": "Вариант без очевидной комиссии агентства; стоит уточнить состояние и площадь сада.",
+      "status": "active",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "last_checked": "2026-11-20",
+      "price_history": [
+        {
+          "date": "2026-11-20",
+          "price": 165000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-20",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "nekretnine-bosanske-krajine-1658133",
+      "title": "Bosanske Krajine — Batajnica, 63 m²",
+      "district": "Zemun",
+      "neighborhood": "Batajnica",
+      "address": "Bosanske Krajine, Batajnica, Beograd",
+      "price": 151200,
+      "area": 63,
+      "rooms": 3,
+      "bedrooms": 2,
+      "floor": "2/3",
+      "registered": null,
+      "renovated": true,
+      "furnished": false,
+      "heating": "Samostalno električno",
+      "source": "Nekretnine.rs",
+      "url": "https://www.nekretnine.rs/oglasi/1658133/",
+      "images": [],
+      "location": {
+        "lat": 44.906,
+        "lng": 20.281,
+        "precision": "approximate"
+      },
+      "priority": 3,
+      "pros": [
+        "новостройка",
+        "две спальни",
+        "терраса",
+        "€2 400/м²"
+      ],
+      "cons": [
+        "Batajnica далеко от Studentski grad",
+        "электрическое отопление",
+        "нет лифта",
+        "агентская комиссия 2%",
+        "готовность и документы требуют проверки"
+      ],
+      "comment": "Бюджетный запасной вариант; аналогичные объявления агентства могут относиться к одному объекту.",
+      "status": "active",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "last_checked": "2026-11-20",
+      "price_history": [
+        {
+          "date": "2026-11-20",
+          "price": 151200
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-20",
+          "status": "active"
+        }
+      ]
     }
   ],
   "lifecycle": {
