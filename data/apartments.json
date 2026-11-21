@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20",
+  "updated_at": "2026-11-21",
   "currency": "EUR",
   "notes": "Координаты ориентировочные, так как часть агентств скрывает точный дом до назначения просмотра. Для новостроек цена в JSON может быть приведена к приблизительной цене с PDV для честного сравнения — см. price_note.",
   "apartments": [
@@ -5690,6 +5690,110 @@
       "status_history": [
         {
           "date": "2026-11-20",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-retenzija-5425647861863",
+      "title": "Džona Kenedija — Retenzija, Blok 9a",
+      "district": "Novi Beograd",
+      "neighborhood": "Blok 9a / Retenzija",
+      "address": "Džona Kenedija, Novi Beograd, Beograd",
+      "price": 179000,
+      "area": 45,
+      "rooms": 2,
+      "bedrooms": 1,
+      "floor": "VPR/6",
+      "registered": null,
+      "renovated": null,
+      "furnished": null,
+      "heating": null,
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/novo-u-ponudi-retenzija/5425647861863?kid=4",
+      "images": [],
+      "location": {
+        "lat": 44.8384,
+        "lng": 20.415,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "хорошая локация у Дуная",
+        "светлая квартира",
+        "функциональная планировка"
+      ],
+      "cons": [
+        "€3 978/м²",
+        "высокий первый этаж",
+        "ремонт и документы требуют уточнения"
+      ],
+      "comment": "Объявление от 20.11.2026; детали видны в выдаче Halo Oglasi, индивидуальная страница не отдаёт описание.",
+      "status": "active",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "last_checked": "2026-11-21",
+      "price_history": [
+        {
+          "date": "2026-11-21",
+          "price": 179000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-21",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "id": "halo-stari-merkator-5425648013971",
+      "title": "Otona Župančiča — Stari Merkator, renoviran",
+      "district": "Novi Beograd",
+      "neighborhood": "Stari Merkator",
+      "address": "Otona Župančiča, Novi Beograd, Beograd",
+      "price": 155000,
+      "area": 38,
+      "rooms": 1,
+      "bedrooms": 0,
+      "floor": "V/8",
+      "registered": null,
+      "renovated": true,
+      "furnished": null,
+      "heating": null,
+      "source": "Halo Oglasi",
+      "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/bez-ulaganja-renoviran-odlicna-investicija/5425648013971?kid=4",
+      "images": [],
+      "location": {
+        "lat": 44.8318,
+        "lng": 20.4184,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "отремонтирована",
+        "без дополнительных вложений по описанию",
+        "хорошая транспортная локация"
+      ],
+      "cons": [
+        "€4 079/м²",
+        "однокомнатная, небольшая площадь",
+        "документы требуют проверки"
+      ],
+      "comment": "Объявление от 20.11.2026; описание доступно в выдаче Halo Oglasi.",
+      "status": "active",
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21",
+      "last_checked": "2026-11-21",
+      "price_history": [
+        {
+          "date": "2026-11-21",
+          "price": 155000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-21",
           "status": "active"
         }
       ]
