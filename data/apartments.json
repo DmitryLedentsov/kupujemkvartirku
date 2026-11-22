@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21",
+  "updated_at": "2026-11-22",
   "currency": "EUR",
   "notes": "Координаты ориентировочные, так как часть агентств скрывает точный дом до назначения просмотра. Для новостроек цена в JSON может быть приведена к приблизительной цене с PDV для честного сравнения — см. price_note.",
   "apartments": [
@@ -5797,6 +5797,62 @@
           "status": "active"
         }
       ]
+    },
+    {
+      "id": "blok34-kp-196326442",
+      "title": "Bulevar Zorana Đinđića — Studentski grad / Blok 34",
+      "district": "Novi Beograd",
+      "neighborhood": "Blok 34 / Studentski grad",
+      "address": "Bulevar Zorana Đinđića, Novi Beograd, Beograd",
+      "price": 140900,
+      "area": 35,
+      "rooms": 1,
+      "bedrooms": 0,
+      "floor": "3/8",
+      "registered": true,
+      "renovated": false,
+      "furnished": false,
+      "heating": "Centralno",
+      "source": "KupujemProdajem",
+      "url": "https://www.kupujemprodajem.com/nekretnine-prodaja/stanovi/bulevar-zorana-djindjica-blok-34-novi-beograd-beograd/oglas/196326442",
+      "images": [],
+      "location": {
+        "lat": 44.823,
+        "lng": 20.4,
+        "precision": "approximate"
+      },
+      "priority": 3,
+      "pros": [
+        "Студгород / Blok 34",
+        "uknjiženo",
+        "3 этаж",
+        "новый лифт",
+        "окна во двор",
+        "возможна перепланировка столовой в спальню"
+      ],
+      "cons": [
+        "35 м²",
+        "исходное состояние, нужен ремонт",
+        "€4 026/м²",
+        "комиссия 2%"
+      ],
+      "comment": "Недорогой вход в востребованный район, но стоимость метра высокая и ремонт нужно заложить отдельно. Координаты ориентировочные.",
+      "status": "active",
+      "first_seen": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "price_history": [
+        {
+          "date": "2026-11-22",
+          "price": 140900
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-22",
+          "status": "active"
+        }
+      ],
+      "last_checked": "2026-11-22"
     }
   ],
   "lifecycle": {
