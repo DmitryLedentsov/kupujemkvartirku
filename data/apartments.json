@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22",
+  "updated_at": "2026-11-23",
   "currency": "EUR",
   "notes": "Координаты ориентировочные, так как часть агентств скрывает точный дом до назначения просмотра. Для новостроек цена в JSON может быть приведена к приблизительной цене с PDV для честного сравнения — см. price_note.",
   "apartments": [
@@ -5853,6 +5853,63 @@
         }
       ],
       "last_checked": "2026-11-22"
+    },
+    {
+      "id": "cityexpert-pere-segedinca-81049",
+      "title": "Pere Segedinca — Bežanijska kosa",
+      "district": "Novi Beograd",
+      "neighborhood": "Bežanijska kosa",
+      "address": "Pere Segedinca, Novi Beograd, Beograd",
+      "price": 180000,
+      "area": 60,
+      "rooms": 2.5,
+      "bedrooms": 2,
+      "floor": "16/18",
+      "registered": true,
+      "renovated": null,
+      "furnished": false,
+      "heating": "Centralno",
+      "source": "City Expert",
+      "url": "https://cityexpert.rs/prodaja-nekretnina/beograd/81049/dvoiposoban-stan-pere-segedinca-novi-beograd",
+      "images": [],
+      "location": {
+        "lat": 44.822,
+        "lng": 20.37,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "€3 000/м²",
+        "две отдельные спальни",
+        "uknjiženo (57 м² по реестру)",
+        "центральное отопление",
+        "лифт",
+        "свободная парковка у дома"
+      ],
+      "cons": [
+        "16-й этаж",
+        "в реестре 57 м² вместо заявленных 60 м²",
+        "без мебели",
+        "комиссия 2% (€3 600)",
+        "состояние ремонта не подтверждено"
+      ],
+      "comment": "Хорошая площадь и планировка для Bežanijska kosa; ориентировочные координаты. Стоимость с комиссией €183 600 без прочих расходов.",
+      "status": "active",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "price_history": [
+        {
+          "date": "2026-11-23",
+          "price": 180000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-23",
+          "status": "active"
+        }
+      ],
+      "last_checked": "2026-11-23"
     }
   ],
   "lifecycle": {
