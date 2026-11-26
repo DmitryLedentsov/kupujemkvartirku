@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23",
+  "updated_at": "2026-11-26",
   "currency": "EUR",
   "notes": "Координаты ориентировочные, так как часть агентств скрывает точный дом до назначения просмотра. Для новостроек цена в JSON может быть приведена к приблизительной цене с PDV для честного сравнения — см. price_note.",
   "apartments": [
@@ -5381,7 +5381,7 @@
       "district": "Novi Beograd",
       "neighborhood": "Bežanijska kosa 2",
       "address": "Bežanijskih ilegalaca, Novi Beograd, Beograd",
-      "price": 176000,
+      "price": 165000,
       "area": 47,
       "rooms": 2.5,
       "bedrooms": 2,
@@ -5413,12 +5413,16 @@
       "comment": "Предложение от 16.11.2026 по списку Halo Oglasi. Детальная карточка не отдает характеристики в текстовом просмотре; перед просмотром подтвердить состояние и документы.",
       "status": "active",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "last_checked": "2026-11-17",
+      "last_seen": "2026-11-26",
+      "last_checked": "2026-11-26",
       "price_history": [
         {
           "date": "2026-11-17",
           "price": 176000
+        },
+        {
+          "date": "2026-11-26",
+          "price": 165000
         }
       ],
       "status_history": [
@@ -5910,6 +5914,59 @@
         }
       ],
       "last_checked": "2026-11-23"
+    },
+    {
+      "id": "banjicka-81147",
+      "title": "Banjička — Sutjeska",
+      "district": "Zemun",
+      "neighborhood": "Sutjeska",
+      "address": "Banjička, Zemun, Beograd",
+      "price": 160000,
+      "area": 48,
+      "rooms": 2,
+      "bedrooms": 1,
+      "floor": "0/3",
+      "registered": true,
+      "renovated": true,
+      "furnished": true,
+      "heating": "Inverter klima",
+      "source": "City Expert",
+      "url": "https://cityexpert.rs/prodaja-nekretnina/beograd/81147/dvosoban-stan-banjicka-zemun",
+      "images": [],
+      "location": {
+        "lat": 44.848,
+        "lng": 20.393,
+        "precision": "approximate"
+      },
+      "priority": 2,
+      "pros": [
+        "ремонт 2025 года",
+        "мебель включена",
+        "uknjiženo 48 м²",
+        "парковка"
+      ],
+      "cons": [
+        "первый этаж",
+        "отопление кондиционером",
+        "комиссия 2%"
+      ],
+      "comment": "€3333/м²; опубликовано 24.11.2026. Координаты ориентировочные.",
+      "status": "active",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "last_checked": "2026-11-26",
+      "price_history": [
+        {
+          "date": "2026-11-26",
+          "price": 160000
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-11-26",
+          "status": "active"
+        }
+      ]
     }
   ],
   "lifecycle": {
