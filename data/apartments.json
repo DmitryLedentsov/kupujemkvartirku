@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26",
+  "updated_at": "2026-11-28",
   "currency": "EUR",
   "notes": "Координаты ориентировочные, так как часть агентств скрывает точный дом до назначения просмотра. Для новостроек цена в JSON может быть приведена к приблизительной цене с PDV для честного сравнения — см. price_note.",
   "apartments": [
@@ -3285,7 +3285,7 @@
       "district": "Novi Beograd",
       "neighborhood": "Blok 19a",
       "address": "Vladimira Popovića, Blok 19a, Novi Beograd, Beograd",
-      "price": 159000,
+      "price": 149000,
       "area": 43,
       "rooms": 2,
       "bedrooms": 1,
@@ -3317,12 +3317,16 @@
       "comment": "Интересный вариант по локации: зарегистрированные 43 м² в Blok 19a дешевле многих соседних квартир. Важно проверить крышу и лифт.",
       "status": "active",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-01",
-      "last_checked": "2026-11-01",
+      "last_seen": "2026-11-28",
+      "last_checked": "2026-11-28",
       "price_history": [
         {
           "date": "2026-10-30",
           "price": 159000
+        },
+        {
+          "date": "2026-11-28",
+          "price": 149000
         }
       ],
       "status_history": [
